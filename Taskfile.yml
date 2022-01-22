@@ -1,0 +1,16 @@
+# Required powershell
+version: "3"
+
+tasks:
+  default:
+    - task: help
+
+  help:
+    silent: true
+    cmds:
+      - task -l
+
+  dev:
+    desc: Run local server
+    cmds:
+      - poetry run mkdocs serve
