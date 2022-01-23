@@ -1,4 +1,4 @@
-Realod words from [[Custom dictionaries]].
+Realod words from [[📚Custom dictionaries]].
 
 ## Default hotkey
 

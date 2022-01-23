@@ -1,5 +1,0 @@
----
-aliases: ["custom dictionary"]
----
-
-#todo

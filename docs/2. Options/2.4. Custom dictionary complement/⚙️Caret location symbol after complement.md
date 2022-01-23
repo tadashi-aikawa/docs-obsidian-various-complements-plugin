@@ -4,7 +4,7 @@
 
 ## Examples
 
-[[Custom dictionaries|custom dictionary]] is below.
+[[📚Custom dictionaries|custom dictionary]] is below.
 
 ```
 <ul>\n\t<li><CARET></li>\n</ul>
