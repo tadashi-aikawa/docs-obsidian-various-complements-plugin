@@ -1,4 +1,4 @@
-Show a [[Add a word to a custom dictionary dialog]].
+Open a [[Add a word to a custom dictionary dialog]].
 
 ## Default hotkey
 
