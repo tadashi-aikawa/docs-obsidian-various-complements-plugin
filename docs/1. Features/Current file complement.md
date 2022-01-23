@@ -6,12 +6,12 @@ It suggests and completes the text with tokens that exists in a current file.
 
 ## Requirements
 
-You need to enable a [[⚙️Enable Current file complement]] option.
+It needs to enable a [[⚙️Enable Current file complement]] option.
 
 ## Options
 
 - [[⚙️Enable Current file complement]]
-- [[Only complement English on current file complement]]
+- [[⚙️Only complement English on current file complement]]
 
 
 ## When does it update tokens?

@@ -27,6 +27,24 @@ This plugin for [Obsidian] enables you complete words like the auto-completion o
 | Chinese             | no      | [#7]  |
 | Korean              | no      |       |
 
+## 📱 Support devices/OS
+
+| Device/OS | Support | Issue |
+| --------- | ------- | ----- |
+| Windows   | yes     |       |
+| Mac       | yes     |       |
+| Linux     | no      |       |
+| Android   | yes     |       |
+| iPhone    | yes     |       |
+| iPad      | yes     |       |
+
+## 🖥️ Support views
+
+| Editor/Mode       | Support | Issue |
+| ----------------- | ------- | ----- |
+| Legacy editor     | yes     |       |
+| Source mode       | yes     |       |
+| Live preview mode | yes     |       |
 
 [Obsidian]: https://obsidian.md/
 [#2]: https://github.com/tadashi-aikawa/obsidian-various-complements-plugin/issues/2
