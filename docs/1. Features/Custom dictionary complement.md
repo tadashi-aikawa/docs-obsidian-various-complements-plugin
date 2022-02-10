@@ -9,6 +9,7 @@ Settings of the above demo are as follows.
 - [[⚙️Enable Custom dictionary complement]]: `ON` **(required)**
 - [[⚙️Custom dictionary paths]]: `_Privates/dictionary-test.md`
 - [[⚙️Column delimiter]]: `Tab`
+- [[⚙️Word regex pattern]]: 
 - [[⚙️Delimiter to hide a suggestion]]:
 - [[⚙️Caret location symbol after complement]]: `<CARET>`
 
@@ -35,6 +36,7 @@ For details, you can see [[🖼️Status bar]].
 - [[⚙️Enable Custom dictionary complement]]
 - [[⚙️Custom dictionary paths]]
 - [[⚙️Column delimiter]]
+- [[⚙️Word regex pattern]]
 - [[⚙️Delimiter to hide a suggestion]]
 - [[⚙️Caret location symbol after complement]]
 
