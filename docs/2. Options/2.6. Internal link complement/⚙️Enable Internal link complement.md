@@ -1,4 +1,5 @@
 ## Definitions
+
 - `ON` (default)
 	- It enables [[Internal link complement]]
 - `OFF`

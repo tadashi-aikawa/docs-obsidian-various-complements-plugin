@@ -18,7 +18,7 @@
 
 ![[caret-location-symbol-after-complement-empty.gif]]
 
-## Notes
+## Notesb
 
 - It doesn't support multi caret location symbols
 	- Workaround is [here](https://github.com/tadashi-aikawa/obsidian-various-complements-plugin/issues/25#issuecomment-997361792)

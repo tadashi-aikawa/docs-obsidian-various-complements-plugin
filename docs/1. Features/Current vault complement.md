@@ -1,16 +1,16 @@
-It suggests and completes the text with tokens that exists in a current file.
+It suggests and completes the text with tokens in files in a current vault.
 
 ## Images
 
-![[current-file-complement-demo.gif]]
+![[current-vault-complement-demo.gif]]
 
 ## Requirements
 
-It needs to enable a [[⚙️Enable Current file complement]] option.
+It needs to enable a [[⚙️Enable Current vault complement]] option.
 
 ## When does it update tokens?
 
-- **After saving a current file (every 2 seconds by Obsidian).**
+- **After executing a [[🎮Reload current vault]] command**
 - During starting Obsidian
 - After enabling this plugin
 - After some settings are updated
@@ -19,8 +19,9 @@ For details, you can see [[🖼️Status bar]].
 
 ## Options
 
-- [[⚙️Enable Current file complement]]
-- [[⚙️Only complement English on current file complement]]
+- [[⚙️Enable Current vault complement]]
+- [[⚙️Include prefix path patterns]]
+- [[⚙️Exclude prefix path patterns]]
 
 ## Matching logic
 

@@ -9,3 +9,7 @@ A dialog for adding a word to a [[📚Custom dictionaries|custom dictionary]].
 - ④ Description input form
 - ⑤ Aliases input form
 - ⑥ `Add to dictionary` button
+
+## Since
+
+`v5.0.0`

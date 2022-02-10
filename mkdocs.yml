@@ -29,9 +29,5 @@ markdown_extensions:
       permalink: true
 
 plugins:
-  - search:
-      lang:
-        - en
-      prebuild_index: true
+  - search
   - roamlinks
-

@@ -8,11 +8,12 @@ title: Home
 
 This plugin for [Obsidian] enables you complete words like the auto-completion of IDE.
 
-![[2022-01-22.gif]]
+![[various-complements.gif]]
 
 ## ⌨️ Features
 
 - [[Current file complement]]
+- [[Current vault complement]]
 - [[Custom dictionary complement]]
 - [[Internal link complement]]
 - [[Predictable complement]]

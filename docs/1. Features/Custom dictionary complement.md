@@ -28,6 +28,8 @@ Please see [[📚Custom dictionaries]]. You can also register words on [[🖼️
 - After enabling this plugin
 - After some settings are updated
 
+For details, you can see [[🖼️Status bar]].
+
 ## Options
 
 - [[⚙️Enable Custom dictionary complement]]

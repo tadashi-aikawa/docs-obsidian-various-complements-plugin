@@ -2,11 +2,20 @@ It suggets and completes the text with internal links without input \[\[. It mea
 
 ## Images
 
-![[internal-link-complement-demo.gif]]
+![[internal-link-complement-demo 1.gif]]
 
 ## Requirements
 
 It needs to enable a [[⚙️Enable Internal link complement]] option.
+
+## When does it update tokens?
+
+- **After Switching an active pane or file**
+- During starting Obsidian
+- After enabling this plugin
+- After some settings are updated
+
+For details, you can see [[🖼️Status bar]].
 
 ## Options
 
