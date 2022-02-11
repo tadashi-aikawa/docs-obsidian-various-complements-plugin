@@ -17,11 +17,12 @@ It needs to enable a [[⚙️Enable Current vault complement]] option.
 
 For details, you can see [[🖼️Status bar]].
 
-## Options
+## Related Options
 
 - [[⚙️Enable Current vault complement]]
 - [[⚙️Include prefix path patterns]]
 - [[⚙️Exclude prefix path patterns]]
+- [[⚙️Open source file key]]
 
 ## Matching logic
 

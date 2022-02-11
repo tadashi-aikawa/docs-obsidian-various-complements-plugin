@@ -17,7 +17,7 @@ It needs to enable a [[⚙️Enable Current file complement]] option.
 
 For details, you can see [[🖼️Status bar]].
 
-## Options
+## Related Options
 
 - [[⚙️Enable Current file complement]]
 - [[⚙️Only complement English on current file complement]]

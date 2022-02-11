@@ -31,7 +31,7 @@ Please see [[📚Custom dictionaries]]. You can also register words on [[🖼️
 
 For details, you can see [[🖼️Status bar]].
 
-## Options
+## Related Options
 
 - [[⚙️Enable Custom dictionary complement]]
 - [[⚙️Custom dictionary paths]]

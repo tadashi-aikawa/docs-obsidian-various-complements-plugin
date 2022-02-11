@@ -17,10 +17,11 @@ It needs to enable a [[⚙️Enable Internal link complement]] option.
 
 For details, you can see [[🖼️Status bar]].
 
-## Options
+## Related Options
 
 - [[⚙️Enable Internal link complement]]
 - [[⚙️Suggest with an alias]]
+- [[⚙️Open source file key]]
 
 ## Matching logic
 
