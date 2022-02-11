@@ -22,6 +22,7 @@ For details, you can see [[🖼️Status bar]].
 - [[⚙️Enable Current vault complement]]
 - [[⚙️Include prefix path patterns]]
 - [[⚙️Exclude prefix path patterns]]
+- [[⚙️Include only files under current directory]]
 - [[⚙️Open source file key]]
 
 ## Matching logic
