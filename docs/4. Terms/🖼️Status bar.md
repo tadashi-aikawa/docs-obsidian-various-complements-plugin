@@ -2,6 +2,8 @@ The status bar indicates the number of suggestions loaded for each complement fe
 
 ![[Pasted image 20220206230849.png]]
 
+If you want to hide them, please set [[⚙️Show Indexing status]] off.
+
 ## Icon
 
 | Icon                                 | Feature                          |
