@@ -16,6 +16,7 @@ This plugin for [Obsidian] enables you complete words like the auto-completion o
 - [[Current vault complement]]
 - [[Custom dictionary complement]]
 - [[Internal link complement]]
+- [[Front matter complement]]
 - [[Predictable complement]]
 
 ## 🗺️ Support languages
@@ -30,22 +31,22 @@ This plugin for [Obsidian] enables you complete words like the auto-completion o
 
 ## 📱 Support devices/OS
 
-| Device/OS | Support | Issue |
-| --------- | ------- | ----- |
-| Windows   | yes     |       |
-| Mac       | yes     |       |
-| Linux     | no      |       |
-| Android   | yes     |       |
-| iPhone    | yes     |       |
-| iPad      | yes     |       |
+| Device/OS | Support             | Issue |
+| --------- | ------------------- | ----- |
+| Windows   | yes                 |       |
+| Mac       | as much as possible |       |
+| Linux     | as much as possible |       |
+| Android   | yes                 |       |
+| iPhone    | as much as possible |       |
+| iPad      | yes                 |       |
 
 ## 🖥️ Support views
 
-| Editor/Mode       | Support | Issue |
-| ----------------- | ------- | ----- |
-| Legacy editor     | yes     |       |
-| Source mode       | yes     |       |
-| Live preview mode | yes     |       |
+| Editor/Mode       | Support             | Issue |
+| ----------------- | ------------------- | ----- |
+| Legacy editor     | as much as possible |       |
+| Source mode       | yes                 |       |
+| Live preview mode | yes                 |       |
 
 [Obsidian]: https://obsidian.md/
 [#2]: https://github.com/tadashi-aikawa/obsidian-various-complements-plugin/issues/2

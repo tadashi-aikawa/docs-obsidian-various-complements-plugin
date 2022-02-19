@@ -1,8 +1,11 @@
-The status bar indicates the number of suggestions loaded for each complement feature.
+It indicates the number of suggestions loaded for each complement feature.
+
+If you want to hide them, please set [[⚙️Show Indexing status]] off.
+
+## Images
 
 ![[Pasted image 20220206230849.png]]
 
-If you want to hide them, please set [[⚙️Show Indexing status]] off.
 
 ## Icon
 
@@ -12,6 +15,7 @@ If you want to hide them, please set [[⚙️Show Indexing status]] off.
 | ![[Pasted image 20220206231706.png]] | [[Current vault complement]]     |
 | ![[Pasted image 20220206231754.png]] | [[Custom dictionary complement]] |
 | ![[Pasted image 20220206231813.png]] | [[Internal link complement]]     |
+|  ![[Pasted image 20220219150007.png]]| [[Front matter complement]]     |
 
 ## Status
 

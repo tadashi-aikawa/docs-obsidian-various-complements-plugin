@@ -1,17 +1,9 @@
 ## Definitions
 
+Show [[🖼️Indexing status]] or not.
+
 - `ON` (default)
 - `OFF`
-
-## Examples
-
-### ON
-
-![[show-indexing-status-on.png]]
-
-### OFF
-
-![[show-indexing-status-off.png]]
 
 ## Related issues
 
