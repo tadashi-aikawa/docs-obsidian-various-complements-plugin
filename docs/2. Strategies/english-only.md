@@ -5,6 +5,7 @@ You may want to select it if you can't use the other strategies but only use it 
 `default`
 
 ![[strategy-default-with-chinese.gif]]
+
 `english-only`
 
 ![[strategy-english-only-with-chinese.gif]]
