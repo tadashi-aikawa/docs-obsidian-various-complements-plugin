@@ -26,6 +26,7 @@ For details, you can see [[🖼️Status bar]].
 ## Related Options
 
 - [[⚙️Enable Front matter complement]]
+- [[⚙️Match strategy in the front matter]]
 - [[⚙️Insert comma after completion]]
 
 ## Matching logic
