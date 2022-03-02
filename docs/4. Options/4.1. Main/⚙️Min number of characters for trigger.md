@@ -4,6 +4,14 @@
 - min: `0`
 - max: `10`
 
+**It uses a default value of [[⚙️Strategy]] if set 0.**
+
+| Strategy | default value |
+| -------- | ------------- |
+| default  | 3             |
+| japanese | 2             |
+| arabic   | 3             | 
+
 ## Examples
 
 ### Set to 2
@@ -13,16 +21,6 @@
 ### Set to 5
 
 ![[min-number-of-characters-for-trigger-5.gif]]
-
-## Notes
-
-It uses a default value of [[⚙️Strategy]] if set 0.
-
-| Strategy | default value |
-| -------- | ------------- |
-| default  | 3             |
-| japanese | 2             |
-| arabic   | 3             | 
 
 ## Related issues
 
