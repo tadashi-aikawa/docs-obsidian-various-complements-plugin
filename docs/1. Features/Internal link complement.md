@@ -21,6 +21,7 @@ For details, you can see [[🖼️Status bar]].
 
 - [[⚙️Enable Internal link complement]]
 - [[⚙️Suggest with an alias]]
+- [[4. Options/4.7. Internal link complement/⚙️Exclude prefix path patterns|⚙️Exclude prefix path patterns]]
 - [[⚙️Open source file key]]
 
 ## Matching logic
