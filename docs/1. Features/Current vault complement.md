@@ -21,7 +21,7 @@ For details, you can see [[🖼️Status bar]].
 
 - [[⚙️Enable Current vault complement]]
 - [[⚙️Include prefix path patterns]]
-- [[4. Options/4.5. Current vault complement/⚙️Exclude prefix path patterns|⚙️Exclude prefix path patterns]]
+- [[⚙️Exclude prefix path patterns (Current vault complement)]]
 - [[⚙️Include only files under current directory]]
 - [[⚙️Open source file key]]
 

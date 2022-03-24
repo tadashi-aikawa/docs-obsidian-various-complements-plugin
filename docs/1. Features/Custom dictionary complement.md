@@ -11,6 +11,7 @@ Settings of the above demo are as follows.
 - [[⚙️Column delimiter]]: `Tab`
 - [[⚙️Word regex pattern]]: 
 - [[⚙️Delimiter to hide a suggestion]]:
+- [[⚙️Delimiter to divide suggestions for display from ones for insertion]]:
 - [[⚙️Caret location symbol after complement]]: `<CARET>`
 
 ## Requirements
@@ -38,12 +39,14 @@ For details, you can see [[🖼️Status bar]].
 - [[⚙️Column delimiter]]
 - [[⚙️Word regex pattern]]
 - [[⚙️Delimiter to hide a suggestion]]
+- [[⚙️Delimiter to divide suggestions for display from ones for insertion]]
 - [[⚙️Caret location symbol after complement]]
 
 ## Matching logic
 
 - If [[⚙️Match strategy]] is `prefix`
-	- Prefix match
+	- Prefix match (**Ignore prefix-emoji**)
+		- `Obs` matches both `Obsidian` and `💎Obsidian`
 	- case-sensitive (only first letter)
 - If [[⚙️Match strategy]] is `partial`
 	- Partial match

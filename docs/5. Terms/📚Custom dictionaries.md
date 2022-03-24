@@ -25,7 +25,6 @@ Value set in [[⚙️Column delimiter]]
 #### What are they used for?
 
 - `word`  is used for inserting text after selecting a suggestion
-- `aliases`  are used for inserting text after selecting a suggestion **only if** [[⚙️Suggest with an alias]] is `ON`
 - `word` and `aliases`  are used for matching (which suggestions show or not?)
 - `description` is not used for matching
 

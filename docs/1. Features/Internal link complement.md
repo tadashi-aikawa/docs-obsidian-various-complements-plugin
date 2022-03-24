@@ -1,4 +1,4 @@
-It suggests and completes the text with internal links without input \[\[. It means that you can concentrate on writing sentences **without concerning whether the word already exists as a link or not**.
+It suggests and completes the text with internal links without input `[[`. It means that you can concentrate on writing sentences **without concerning whether the word already exists as a link or not**.
 
 ## Images
 
@@ -21,7 +21,7 @@ For details, you can see [[🖼️Status bar]].
 
 - [[⚙️Enable Internal link complement]]
 - [[⚙️Suggest with an alias]]
-- [[4. Options/4.7. Internal link complement/⚙️Exclude prefix path patterns|⚙️Exclude prefix path patterns]]
+- [[⚙️Exclude prefix path patterns (Internal link complement)]]
 - [[⚙️Open source file key]]
 
 ## Matching logic

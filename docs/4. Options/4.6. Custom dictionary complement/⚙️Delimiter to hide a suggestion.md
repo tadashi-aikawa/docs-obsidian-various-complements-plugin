@@ -10,7 +10,7 @@
 one-two-three-;;;four-five!!!
 ```
 
-### Set to ;;;
+### Set to `;;;`
 
 ![[delimiter-to-hide-a-suggestion-;;;.gif]]
 
