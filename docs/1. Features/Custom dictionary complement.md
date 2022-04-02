@@ -16,7 +16,7 @@ Settings of the above demo are as follows.
 
 ## Requirements
 
-It needs to enable a [[⚙️Enable Current file complement]] option and specify [[⚙️Custom dictionary paths]].
+It needs to enable a [[⚙️Enable Custom dictionary complement]] option and specify [[⚙️Custom dictionary paths]].
 
 ## How do we create custom dictionaries?
 
