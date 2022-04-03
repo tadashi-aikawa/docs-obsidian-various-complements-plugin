@@ -2,7 +2,7 @@ It suggests and completes the text with internal links without input `[[`. It me
 
 ## Images
 
-![[internal-link-complement-demo 1.gif]]
+![[internal-link-complement-demo1.gif]]
 
 ## Requirements
 
