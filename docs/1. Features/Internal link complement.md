@@ -1,4 +1,4 @@
-It suggests and completes the text with internal links without input `[[`. It means that you can concentrate on writing sentences **without concerning whether the word already exists as a link or not**.
+It suggests and completes the text with internal links without input \[\[. It means that you can concentrate on writing sentences **without concerning whether the word already exists as a link or not**.
 
 ## Images
 
