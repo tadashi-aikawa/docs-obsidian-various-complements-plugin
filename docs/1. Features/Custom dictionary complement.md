@@ -41,6 +41,7 @@ For details, you can see [[🖼️Status bar]].
 - [[⚙️Delimiter to hide a suggestion]]
 - [[⚙️Delimiter to divide suggestions for display from ones for insertion]]
 - [[⚙️Caret location symbol after complement]]
+- [[⚙️Displayed text suffix]]
 
 ## Matching logic
 
