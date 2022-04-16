@@ -52,3 +52,7 @@ For details, you can see [[🖼️Status bar]].
 - If [[⚙️Match strategy]] is `partial`
 	- Partial match
 	- case-insensitive
+
+## Realated
+
+- [[📓Custom dictionary examples]]
