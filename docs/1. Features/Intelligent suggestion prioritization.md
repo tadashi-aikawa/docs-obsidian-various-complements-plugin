@@ -25,3 +25,8 @@ The number of times a word is selected. **If not selected for 30 days, it will b
 | Within a day     | 2             |
 | Within a week    | 0.5           |
 | Within a 30 days | 0.25          |
+
+
+## Since
+
+`v6.0.0`
