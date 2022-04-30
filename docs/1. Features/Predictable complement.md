@@ -1,4 +1,4 @@
-Predictable complement is similar to a [Hippie completion for IntelliJ IDEA]; it is triggered by a hotkey, `Shift + Space` by default.
+Predictable complement is similar to a [Hippie completion for IntelliJ IDEA].
 
 ## Images
 

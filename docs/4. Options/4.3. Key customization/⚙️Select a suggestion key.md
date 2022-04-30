@@ -5,6 +5,7 @@
 - `Ctrl/Cmd+Enter`
 - `Alt+Enter`
 - `Shift+Enter`
+- `Space` (since `v6.0.0`)
 
 ## Related issues
 
