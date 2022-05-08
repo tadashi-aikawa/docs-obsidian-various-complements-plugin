@@ -8,11 +8,11 @@
 ## Examples
 
 ```
-Notes/dictionary.md
+Notes/dictionary.csv
 ```
 
 ```
-Notes/dictionary.md
+Notes/dictionary.csv
 https://your-dictionary-path
 ```
 

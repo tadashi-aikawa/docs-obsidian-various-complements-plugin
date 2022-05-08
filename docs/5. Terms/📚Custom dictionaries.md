@@ -2,65 +2,44 @@
 aliases: ["custom dictionary"]
 ---
 
-## File definitions
+## Support formats
 
-### Row delimiter
+See [[📚Custom dictionary formats]].
 
-Line breaks
 
-### Column delimiter
+## Word definitions
 
-Value set in [[⚙️Column delimiter]]
+### Inserted text
 
-### Column definitions
+[[#Inserted text]] is used for inserting text after selecting a suggestion **but not used for matching**.
 
-| Col1 | Col2        | Col3 and later |
-| ---- | ----------- | -------------- |
-| word | description | aliases        |
+### Displayed text
 
-#### Where are they shown?
+[[#Displayed text]] is used for displaying suggestions and **matching them**.
 
-![[Pasted image 20220123181820.png]]
+![[Pasted image 20220508152230.png]]
 
-#### What are they used for?
 
-- `word`  is used for inserting text after selecting a suggestion
-- `word` and `aliases`  are used for matching (which suggestions show or not?)
-- `description` is not used for matching
+[[#Inserted text]] and [[#Displayed text]] are the same except for the following cases.
 
-### Comment syntax
+- Use [[⚙️Delimiter to divide suggestions for display from ones for insertion]] in [[📚Custom dictionary formats#CSV like]] format
+- Use [[⚙️Delimiter to hide a suggestion]] in [[📚Custom dictionary formats#CSV like]] format
+- Specify a `displayed` property in [[📚Custom dictionary formats#JSON]] format
+ 
+### Description
 
-If a line starts with `%%`, It regards the line as a comment line.
+[[#Description]] is used for showing a detail about a suggestion **but not used for matching**.
 
-### Escape syntax
+![[Pasted image 20220508153756.png]]
 
-| syntax | actual text |
-| ------ | ----------- |
-| `\n`   | Line break  |
-| `\t`   | Tab         | 
+### Aliases
 
-## Examples
+[[#Aliases]] are used for matching suggestions **but never displayed**.
 
-- [[⚙️Column delimiter]]: `Tab`
+![[Pasted image 20220508154049.png]]
 
-```
-my favorite word
+## Other
 
-%% with description %%
-word with description	This is DESCRIPTION
+### Caret location
 
-%% with aliase %%
-Looks good to me		LGTM	lgtm
-
-%% with \t and \n %%
-- one\n\t- two\n\t- three		onetwo
-```
-
-It will load it as...
-
-| word                      | description         | aliases[0] | aliases[1] |
-| ------------------------- | ------------------- | ---------- | ---------- |
-| my favorite word          |                     |            |            |
-| word with description     | This is DESCRIPTION |            |            |
-| Looks good to me          |                     | LGTM       | lgtm       |
-| - one\n\t- two\n\t- three |                     | onetwo     |            |
+See [[⚙️Caret location symbol after complement]].

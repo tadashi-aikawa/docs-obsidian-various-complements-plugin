@@ -55,4 +55,6 @@ For details, you can see [[🖼️Status bar]].
 
 ## Realated
 
+- [[📚Custom dictionaries]]
+	- [[📚Custom dictionary formats]]
 - [[📓Custom dictionary examples]]
