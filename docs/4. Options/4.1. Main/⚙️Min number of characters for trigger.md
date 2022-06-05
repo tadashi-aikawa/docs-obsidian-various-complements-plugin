@@ -6,11 +6,13 @@
 
 **It uses a default value of [[⚙️Strategy]] if set 0.**
 
-| Strategy | default value |
-| -------- | ------------- |
-| default  | 3             |
-| japanese | 2             |
-| arabic   | 3             | 
+| Strategy         | default value |
+| ---------------- | ------------- |
+| [[default]]      | 3             |
+| [[japanese]]     | 2             |
+| [[chinese]]      | 1             |
+| [[arabic]]       | 3             |
+| [[english-only]] | 3             |
 
 ## Examples
 

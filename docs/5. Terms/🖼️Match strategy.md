@@ -3,7 +3,8 @@ It indicates current [[⚙️Match strategy]]. You can change [[⚙️Match stra
 If you want to hide them, please set [[⚙️Show Match Strategy]] off.
 
 ## Images
-![[2022-02-19.gif]]
+
+![[match-strategy-toggle.gif]]
 
 ## Related issues
 

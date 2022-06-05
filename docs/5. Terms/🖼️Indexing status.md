@@ -4,7 +4,7 @@ If you want to hide them, please set [[⚙️Show Indexing status]] off.
 
 ## Images
 
-![[Pasted image 20220206230849.png]]
+![[Pasted image 20220605154641.png]]
 
 
 ## Icon

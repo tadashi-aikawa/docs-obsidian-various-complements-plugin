@@ -26,7 +26,7 @@ This plugin for [Obsidian] enables you complete words like the auto-completion o
 | English and similar | yes     |       |
 | Japanese            | yes     |       |
 | Arabic              | yes     | [#2]  |
-| Chinese             | no      | [#7]  |
+| Chinese             | yes     | [#7]  |
 | Korean              | no      |       |
 
 ## 📱 Support devices/OS

@@ -48,7 +48,7 @@ For details, you can see [[🖼️Status bar]].
 - If [[⚙️Match strategy]] is `prefix`
 	- Prefix match (**Ignore prefix-emoji**)
 		- `Obs` matches both `Obsidian` and `💎Obsidian`
-	- case-sensitive (only first letter)
+	- case-insensitive
 - If [[⚙️Match strategy]] is `partial`
 	- Partial match
 	- case-insensitive

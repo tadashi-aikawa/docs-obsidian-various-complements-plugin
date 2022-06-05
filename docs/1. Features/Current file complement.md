@@ -20,13 +20,9 @@ For details, you can see [[🖼️Status bar]].
 ## Related Options
 
 - [[⚙️Enable Current file complement]]
+- [[⚙️Min number of characters for indexing (Current file complement)]]
 - [[⚙️Only complement English on current file complement]]
 
 ## Matching logic
 
-- If [[⚙️Match strategy]] is `prefix`
-	- Prefix match
-	- case-sensitive (only first letter)
-- If [[⚙️Match strategy]] is `partial`
-	- Partial match
-	- case-insensitive
+- case-insensitive
