@@ -6,7 +6,9 @@ If you set `:/^`, Various Complements doesn't show suggestions after inputting a
 
 ## Examples
 
-If we installed [Natural Language Dates](https://github.com/argenos/nldates-obsidian) and ...
+If we installed [Natural Language Dates] and ...
+
+[Natural Language Dates]: https://github.com/argenos/nldates-obsidian
 
 ### Set `:/^`
 
