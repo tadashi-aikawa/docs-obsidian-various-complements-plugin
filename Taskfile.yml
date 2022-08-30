@@ -13,4 +13,4 @@ tasks:
   dev:
     desc: Run local server
     cmds:
-      - poetry run mkdocs serve
+      - mkdocs serve
