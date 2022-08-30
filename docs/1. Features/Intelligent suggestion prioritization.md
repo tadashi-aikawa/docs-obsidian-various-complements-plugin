@@ -4,9 +4,10 @@ This feature optimizes the order of suggestions by queries the user has inputted
 
 ![[2022-04-30.gif]]
 
-## Scoring logic
+## Sort orders
 
-It calculates the score using the following formula.
+- The last selected suggestion, by each input, is always at the top (Since `v7.2.0`)
+- Otherwise, it sorts order by scores that calculate using the following formula
 
 ```
 <Selected count> * <Bonus>
@@ -14,7 +15,10 @@ It calculates the score using the following formula.
 
 ### Selected count
 
-The number of times a word is selected. **If not selected for 30 days, it will be cleared**.
+The number of times a word is selected. The histories will be removed depending on the following settings.
+
+- [[⚙️Max days to keep history]]
+- [[⚙️Max number of history to keep]]
 
 ### Bonus
 

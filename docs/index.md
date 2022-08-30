@@ -42,11 +42,11 @@ This plugin for [Obsidian] enables you complete words like the auto-completion o
 
 ## 🖥️ Support views
 
-| Editor/Mode       | Support             | Issue |
-| ----------------- | ------------------- | ----- |
-| Legacy editor     | as much as possible |       |
-| Source mode       | yes                 |       |
-| Live preview mode | yes                 |       |
+| Editor/Mode       | Support | Issue |
+| ----------------- | ------- | ----- |
+| Source mode       | yes     |       |
+| Live preview mode | yes     |       |
+| Legacy editor     | no      |       |
 
 [Obsidian]: https://obsidian.md/
 [#2]: https://github.com/tadashi-aikawa/obsidian-various-complements-plugin/issues/2
