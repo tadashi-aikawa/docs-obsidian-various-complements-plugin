@@ -2,7 +2,7 @@ Execute [[Predictable complement]].
 
 ## Default hotkey
 
-- `Shift+Space`
+- None
 
 ## Related issues
 
