@@ -6,3 +6,7 @@
   color: #000000ab;
   font-weight: bolder;
 }
+
+img[alt*="frame"] {
+  box-shadow: 0 0 10px -5px black;
+}

@@ -48,6 +48,12 @@ This plugin for [Obsidian] enables you complete words like the auto-completion o
 | Live preview mode | yes     |       |
 | Legacy editor     | no      |       |
 
+## ☕ Donation
+
+If you like my products, it would be happy to buy a coffee for me😊
+
+<a href="https://www.buymeacoffee.com/mamansoft"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=mamansoft&button_colour=40DCA5&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
 [Obsidian]: https://obsidian.md/
 [#2]: https://github.com/tadashi-aikawa/obsidian-various-complements-plugin/issues/2
 [#7]: https://github.com/tadashi-aikawa/obsidian-various-complements-plugin/issues/7

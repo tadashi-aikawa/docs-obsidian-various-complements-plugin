@@ -10,7 +10,8 @@ It needs to enable a [[⚙️Enable Internal link complement]] option.
 
 ## When does it update tokens?
 
-- **After Switching an active pane or file**
+- After Switching an active pane or file
+- After saving a file **when [[⚙️Update internal links on save]] is ON**
 - During starting Obsidian
 - After enabling this plugin
 - After some settings are updated
@@ -23,6 +24,8 @@ For details, you can see [[🖼️Status bar]].
 - [[⚙️Suggest with an alias]]
 - [[⚙️Exclude prefix path patterns (Internal link complement)]]
 - [[⚙️Open source file key]]
+- [[⚙️Insert an alias that is transformed from the displayed internal link]]
+- [[⚙️Update internal links on save]]
 
 ## Matching logic
 
