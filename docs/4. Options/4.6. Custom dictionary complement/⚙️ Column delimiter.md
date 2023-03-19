@@ -29,7 +29,7 @@
 
 ## Notes
 
-- For now, there are no ways to escape `,` and `|`, so I recommend to use `Tab` if you register `,` or  `|`  with [[📚Custom dictionaries]]
+- For now, there are no ways to escape `,` and `|`, so I recommend to use `Tab` if you register `,` or  `|`  with [[📚 Custom dictionaries]]
 
 ## Related issues
 

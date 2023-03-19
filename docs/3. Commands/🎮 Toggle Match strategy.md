@@ -1,4 +1,4 @@
-Toggle a [[⚙️Match strategy]] option.
+Toggle a [[⚙️ Match strategy]] option.
 
 ## Default hotkey
 

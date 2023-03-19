@@ -16,7 +16,7 @@
 
 ## Notes
 
-- If set `inherit`, It uses the same as [[⚙️Match strategy]].
+- If set `inherit`, It uses the same as [[⚙️ Match strategy]].
 
 ## Related issues
 

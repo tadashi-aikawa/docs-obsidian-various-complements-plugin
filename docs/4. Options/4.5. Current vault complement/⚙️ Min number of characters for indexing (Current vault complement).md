@@ -4,7 +4,7 @@
 - min: `0`
 - max: `15`
 
-**It uses a default value of [[⚙️Strategy]] if set 0.**
+**It uses a default value of [[⚙️ Strategy]] if set 0.**
 
 | Strategy         | default value |
 | ---------------- | ------------- |

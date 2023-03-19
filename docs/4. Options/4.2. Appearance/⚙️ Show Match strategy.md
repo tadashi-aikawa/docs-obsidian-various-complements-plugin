@@ -1,10 +1,9 @@
-It indicates current [[⚙️Match strategy]]. You can change [[⚙️Match strategy]] by clicking it.
+## Definitions
 
-If you want to hide them, please set [[⚙️Show Match Strategy]] off.
+Show [[🖼️ Match strategy]] or not.
 
-## Images
-
-![[match-strategy-toggle.gif]]
+- `ON` (default)
+- `OFF`
 
 ## Related issues
 

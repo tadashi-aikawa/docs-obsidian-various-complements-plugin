@@ -1,6 +1,6 @@
 ## Definitions
 
-Show [[🖼️Complement automatically]] or not.
+Show [[🖼️ Complement automatically]] or not.
 
 - `ON` (default)
 - `OFF`

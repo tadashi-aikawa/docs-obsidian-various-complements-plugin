@@ -2,7 +2,7 @@
 
 - default: `./cedict_ts.u8`
 
-The path to `cedict_ts.u8` from the vault root. This option appears if [[⚙️Strategy]] is [[chinese]].
+The path to `cedict_ts.u8` from the vault root. This option appears if [[⚙️ Strategy]] is [[chinese]].
 
 ## Related issues
 

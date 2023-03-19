@@ -17,8 +17,8 @@ This feature optimizes the order of suggestions by queries the user has inputted
 
 The number of times a word is selected. The histories will be removed depending on the following settings.
 
-- [[⚙️Max days to keep history]]
-- [[⚙️Max number of history to keep]]
+- [[⚙️ Max days to keep history]]
+- [[⚙️ Max number of history to keep]]
 
 ### Bonus
 

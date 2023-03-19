@@ -16,7 +16,7 @@
 
 ## Notes
 
-It needs to simultaneously set a [[⚙️Max number of words as a phrase]] option.
+It needs to simultaneously set a [[⚙️ Max number of words as a phrase]] option.
 
 ## Related issues
 

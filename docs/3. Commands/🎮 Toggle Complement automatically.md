@@ -1,4 +1,4 @@
-Toggle a [[⚙️Complement automatically]] option.
+Toggle a [[⚙️ Complement automatically]] option.
 
 ## Default hotkey
 

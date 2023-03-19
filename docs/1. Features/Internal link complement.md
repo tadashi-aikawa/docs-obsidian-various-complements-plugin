@@ -6,33 +6,33 @@ It suggests and completes the text with internal links without input \[\[. It me
 
 ## Requirements
 
-It needs to enable a [[⚙️Enable Internal link complement]] option.
+It needs to enable a [[⚙️ Enable Internal link complement]] option.
 
 ## When does it update tokens?
 
 - After Switching an active pane or file
-- After saving a file **when [[⚙️Update internal links on save]] is ON**
+- After saving a file **when [[⚙️ Update internal links on save]] is ON**
 - During starting Obsidian
 - After enabling this plugin
 - After some settings are updated
 
-For details, you can see [[🖼️Status bar]].
+For details, you can see [[🖼️ Status bar]].
 
 ## Related Options
 
-- [[⚙️Enable Internal link complement]]
-- [[⚙️Suggest with an alias]]
-- [[⚙️Exclude prefix path patterns (Internal link complement)]]
-- [[⚙️Open source file key]]
-- [[⚙️Insert an alias that is transformed from the displayed internal link]]
-- [[⚙️Update internal links on save]]
+- [[⚙️ Enable Internal link complement]]
+- [[⚙️ Suggest with an alias]]
+- [[⚙️ Exclude prefix path patterns (Internal link complement)]]
+- [[⚙️ Open source file key]]
+- [[⚙️ Insert an alias that is transformed from the displayed internal link]]
+- [[⚙️ Update internal links on save]]
 
 ## Matching logic
 
-- If [[⚙️Match strategy]] is `prefix`
+- If [[⚙️ Match strategy]] is `prefix`
 	- Prefix match (**Ignore prefix-emoji**)
 		- `Obs` matches both `Obsidian` and `💎Obsidian`
 	- **case-insensitive**
-- If [[⚙️Match strategy]] is `partial`
+- If [[⚙️ Match strategy]] is `partial`
 	- Partial match
 	- case-insensitive

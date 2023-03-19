@@ -2,11 +2,11 @@
 
 - default: ` => ...`
 
-It shows as a suffix of displayed text if there is a difference between displayed and inserted. In other words, it uses [[⚙️Delimiter to divide suggestions for display from ones for insertion]].
+It shows as a suffix of displayed text if there is a difference between displayed and inserted. In other words, it uses [[⚙️ Delimiter to divide suggestions for display from ones for insertion]].
 
 ## Examples
 
-[[📚Custom dictionaries|custom dictionary]] is below.
+[[📚 Custom dictionaries|custom dictionary]] is below.
 
 ```
 📝ad-note >>> > [!note]\n> ,memo

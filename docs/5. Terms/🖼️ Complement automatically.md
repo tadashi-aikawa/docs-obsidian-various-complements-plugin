@@ -1,6 +1,6 @@
-It indicates current [[⚙️Complement automatically]]. You can change [[⚙️Complement automatically]] by clicking it.
+It indicates current [[⚙️ Complement automatically]]. You can change [[⚙️ Complement automatically]] by clicking it.
 
-If you want to hide them, please set [[⚙️Show Complement automatically]] off.
+If you want to hide them, please set [[⚙️ Show Complement automatically]] off.
 
 ## Images
 

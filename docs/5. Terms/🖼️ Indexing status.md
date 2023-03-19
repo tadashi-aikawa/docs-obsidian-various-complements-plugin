@@ -1,6 +1,6 @@
 It indicates the number of suggestions loaded for each complement feature.
 
-If you want to hide them, please set [[⚙️Show Indexing status]] off.
+If you want to hide them, please set [[⚙️ Show Indexing status]] off.
 
 ## Images
 

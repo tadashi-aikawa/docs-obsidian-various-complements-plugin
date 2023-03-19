@@ -4,7 +4,7 @@ aliases: ["custom dictionary"]
 
 ## Support formats
 
-See [[📚Custom dictionary formats]].
+See [[📚 Custom dictionary formats]].
 
 
 ## Word definitions
@@ -22,9 +22,9 @@ See [[📚Custom dictionary formats]].
 
 [[#Inserted text]] and [[#Displayed text]] are the same except for the following cases.
 
-- Use [[⚙️Delimiter to divide suggestions for display from ones for insertion]] in [[📚Custom dictionary formats#CSV like]] format
-- Use [[⚙️Delimiter to hide a suggestion]] in [[📚Custom dictionary formats#CSV like]] format
-- Specify a `displayed` property in [[📚Custom dictionary formats#JSON]] format
+- Use [[⚙️ Delimiter to divide suggestions for display from ones for insertion]] in [[📚 Custom dictionary formats#CSV like]] format
+- Use [[⚙️ Delimiter to hide a suggestion]] in [[📚 Custom dictionary formats#CSV like]] format
+- Specify a `displayed` property in [[📚 Custom dictionary formats#JSON]] format
  
 ### Description
 
@@ -42,4 +42,4 @@ See [[📚Custom dictionary formats]].
 
 ### Caret location
 
-See [[⚙️Caret location symbol after complement]].
+See [[⚙️ Caret location symbol after complement]].

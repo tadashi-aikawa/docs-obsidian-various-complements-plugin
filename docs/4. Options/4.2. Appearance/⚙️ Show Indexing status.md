@@ -1,6 +1,6 @@
 ## Definitions
 
-Show [[🖼️Indexing status]] or not.
+Show [[🖼️ Indexing status]] or not.
 
 - `ON` (default)
 - `OFF`

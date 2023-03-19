@@ -6,7 +6,7 @@ It suggests and completes the text with tokens that exists in a current file.
 
 ## Requirements
 
-It needs to enable a [[⚙️Enable Current file complement]] option.
+It needs to enable a [[⚙️ Enable Current file complement]] option.
 
 ## When does it update tokens?
 
@@ -15,13 +15,13 @@ It needs to enable a [[⚙️Enable Current file complement]] option.
 - After enabling this plugin
 - After some settings are updated
 
-For details, you can see [[🖼️Status bar]].
+For details, you can see [[🖼️ Status bar]].
 
 ## Related Options
 
-- [[⚙️Enable Current file complement]]
-- [[⚙️Min number of characters for indexing (Current file complement)]]
-- [[⚙️Only complement English on current file complement]]
+- [[⚙️ Enable Current file complement]]
+- [[⚙️ Min number of characters for indexing (Current file complement)]]
+- [[⚙️ Only complement English on current file complement]]
 
 ## Matching logic
 

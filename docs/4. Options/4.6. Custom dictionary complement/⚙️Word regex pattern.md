@@ -1,6 +1,6 @@
 ## Definitions
 
-- If set, It only loads words of [[📚Custom dictionaries]] that match the [regular expression pattern](https://en.wikipedia.org/wiki/Regular_expression).
+- If set, It only loads words of [[📚 Custom dictionaries]] that match the [regular expression pattern](https://en.wikipedia.org/wiki/Regular_expression).
 - default: 
 
 ## Examples

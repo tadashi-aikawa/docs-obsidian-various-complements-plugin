@@ -1,4 +1,4 @@
-Reload words from [[📚Custom dictionaries]].
+Reload words from [[📚 Custom dictionaries]].
 
 ## Default hotkey
 

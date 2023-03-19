@@ -4,7 +4,7 @@
 
 ## Examples
 
-[[📚Custom dictionaries|custom dictionary]] is below.
+[[📚 Custom dictionaries|custom dictionary]] is below.
 
 ```
 Displayed text >>> Inserted text
