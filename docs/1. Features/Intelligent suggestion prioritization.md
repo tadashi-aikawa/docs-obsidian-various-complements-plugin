@@ -30,6 +30,15 @@ The number of times a word is selected. The histories will be removed depending 
 | Within a week    | 0.5           |
 | Within a 30 days | 0.25          |
 
+## Where is the user's selection history recorded?
+
+### Since v8.2.0
+
+It recorded in [[📚 Histories]].
+
+### Prior to v8.2.0
+
+It recorded in `data.json`.
 
 ## Since
 

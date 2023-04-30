@@ -26,6 +26,7 @@ For details, you can see [[🖼️ Status bar]].
 - [[⚙️ Open source file key]]
 - [[⚙️ Insert an alias that is transformed from the displayed internal link]]
 - [[⚙️ Update internal links on save]]
+- [[⚙️ Front matter key for exclusion]]
 
 ## Matching logic
 
