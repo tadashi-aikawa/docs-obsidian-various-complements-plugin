@@ -20,6 +20,7 @@
 - If [[⚙️ Match strategy]] is `prefix`, it needs to match the first character even if "fuzzy match" is enabled
 - Exact-or-partial-matched results are always displayed above fuzzy-matched ones
 - There should be little or no performance degradation, but it may take twice the time, depending on the case
+- You can suppress suggestions that you find noisy with the [[⚙️ Min fuzzy match score]] setting
 
 ## Related issues
 
