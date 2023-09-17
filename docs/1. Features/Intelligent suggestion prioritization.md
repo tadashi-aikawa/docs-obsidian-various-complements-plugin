@@ -4,6 +4,10 @@ This feature optimizes the order of suggestions by queries the user has inputted
 
 ![[2022-04-30.gif]]
 
+## Requirements
+
+It needs to enable a [[⚙️ Enable Intelligent Suggestion Prioritization]] option.
+
 ## Sort orders
 
 - The last selected suggestion, by each input, is always at the top (Since `v7.2.0`)
@@ -39,6 +43,13 @@ It recorded in [[📚 Histories]].
 ### Prior to v8.2.0
 
 It recorded in `data.json`.
+
+## Related Options
+
+- [[⚙️ Enable Intelligent Suggestion Prioritization]]
+- [[⚙️ History file path]]
+- [[⚙️ Max days to keep history]]
+- [[⚙️ Max number of history to keep]]
 
 ## Since
 

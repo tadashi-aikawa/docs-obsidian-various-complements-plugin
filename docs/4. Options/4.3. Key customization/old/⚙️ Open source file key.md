@@ -1,3 +1,7 @@
+⚠️**This setting was removed in v9.0.0. Please set [[⚙️ Hotkeys]] instead.**
+
+---
+
 ## Definitions
 
 It enables you to open a source file where it creates a suggestion. It is enabled only in the case of [[Current vault complement]] and [[Internal link complement]].

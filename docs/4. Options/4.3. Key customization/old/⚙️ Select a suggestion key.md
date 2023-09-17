@@ -1,3 +1,7 @@
+⚠️**This setting was removed in v9.0.0. Please set [[⚙️ Hotkeys]] instead.**
+
+---
+
 ## Definitions
 
 - `Enter` (default)

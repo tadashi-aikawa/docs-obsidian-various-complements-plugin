@@ -2,6 +2,9 @@
 aliases:
   - "⚙️Disable the up/down keys for cycle through suggestions keys"
 ---
+⚠️**This setting was removed in v9.0.0. Please set [[⚙️ Hotkeys]] instead.**
+
+---
 
 ## Definitions
 
