@@ -2,7 +2,7 @@
 
 - Paths of [[📚 Custom dictionaries]]
 - You can set multiple paths by separating line breaks
-- It accepts both **relative path from a valut** and **URL**
+- It accepts both **relative path from the vault's root** and **URL**
 - default: `https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt`
 
 ## Examples
