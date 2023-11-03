@@ -1,6 +1,6 @@
 ## Definitions
 
-RegExp line patterns until the cursor, which suppresses the auto-completion trigger. It can set multi patterns by line breaks.
+Regular expression line patterns (partial match) until the cursor, that suppresses the activation of autocomplete. Multiple patterns can be defined with line breaks.
 
 ### default
 
@@ -11,10 +11,10 @@ RegExp line patterns until the cursor, which suppresses the auto-completion trig
 
 ## Examples
 
-### Set default
+### `default`
 
 ![[patterns-to-suppress-trigger-default.gif|frame]]
-### Set empty
+### empty
 
 ![[patterns-to-suppress-trigger-empty.gif|frame]]
 
