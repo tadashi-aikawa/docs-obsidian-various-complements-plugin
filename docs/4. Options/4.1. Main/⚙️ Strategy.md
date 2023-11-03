@@ -10,11 +10,11 @@ This options decides a tokenizer logic.
 	
 ## Examples
 
-### Set to `default`
+### `default`
 
 ![[strategy-default.png]]
 
-### Set to `japanese`
+### `japanese`
 
 ![[strategy-japanese.png]]
 
