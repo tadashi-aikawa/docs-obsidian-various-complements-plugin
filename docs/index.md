@@ -31,22 +31,22 @@ This plugin for [Obsidian] enables you complete words like the auto-completion o
 
 ## 📱 Support devices/OS
 
-| Device/OS | Support             | Issue |
-| --------- | ------------------- | ----- |
-| Windows   | yes                 |       |
-| Mac       | as much as possible |       |
-| Linux     | as much as possible |       |
-| Android   | yes                 |       |
-| iPhone    | as much as possible |       |
-| iPad      | yes                 |       |
+| Device/OS | Support             |
+| --------- | ------------------- |
+| Windows   | yes                 |
+| Mac       | as much as possible |
+| Linux     | as much as possible |
+| Android   | yes                 |
+| iPhone    | as much as possible |
+| iPad      | yes                 |
 
 ## 🖥️ Support views
 
-| Editor/Mode       | Support | Issue |
-| ----------------- | ------- | ----- |
-| Source mode       | yes     |       |
-| Live preview mode | yes     |       |
-| Legacy editor     | no      |       |
+| Editor/Mode       | Support |
+| ----------------- | ------- |
+| Source mode       | yes     |
+| Live preview mode | yes     |
+| Legacy editor     | no      |
 
 [Obsidian]: https://obsidian.md/
 [#2]: https://github.com/tadashi-aikawa/obsidian-various-complements-plugin/issues/2
