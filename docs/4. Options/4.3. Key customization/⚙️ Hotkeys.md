@@ -1,6 +1,6 @@
 ## Definitions
 
-It can set Hotkeys of pop-up commands.
+It allows for the setting of hotkeys for popup commands.
 
 ![[key-customization-hotkeys.png|frame]]
 
@@ -9,23 +9,24 @@ It can set Hotkeys of pop-up commands.
 - Use `Mod` instead of `Ctrl` on Windows or `Cmd` on macOS
 - You can know the keycode at [keycode.info](https://keycode.info/) (Press any key and show `event.key`)
 
-| Command        | Default hotkey |
-| -------------- | -------------- |
-| select         | Enter          |
-| up             | ArrowUp        |
-| down           | ArrowDown      |
-| select 1st     |                |
-| select 2nd     |                |
-| select 3rd     |                |
-| select 4th     |                |
-| select 5th     |                |
-| select 6th     |                |
-| select 7th     |                |
-| select 8th     |                |
-| select 9th     |                |
-| open           |                |
-| completion     |                |
-| insert as text |                |
+| Command                  | Default hotkey |
+| ------------------------ | -------------- |
+| select                   | Enter          |
+| select with custom alias |                |
+| up                       | ArrowUp        |
+| down                     | ArrowDown      |
+| select 1st               |                |
+| select 2nd               |                |
+| select 3rd               |                |
+| select 4th               |                |
+| select 5th               |                |
+| select 6th               |                |
+| select 7th               |                |
+| select 8th               |                |
+| select 9th               |                |
+| open                     |                |
+| completion               |                |
+| insert as text           |                |
 
 
 ## Related issues

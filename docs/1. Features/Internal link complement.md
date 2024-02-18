@@ -28,6 +28,10 @@ For details, you can see [[🖼️ Status bar]].
 - [[⚙️ Update internal links on save]]
 - [[⚙️ Front matter key for exclusion]]
 
+## Related pop-up commands
+
+- [[🗨️select with custom alias]]
+
 ## Matching logic
 
 - If [[⚙️ Match strategy]] is `prefix`
