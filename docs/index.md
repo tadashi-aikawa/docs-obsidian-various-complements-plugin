@@ -21,13 +21,13 @@ This plugin for [Obsidian] enables you complete words like the auto-completion o
 
 ## 🗺️ Support languages
 
-| Language            | Support | Issue  |
-| ------------------- | ------- | ------ |
-| English and similar | yes     |        |
-| Japanese            | yes     |        |
-| Arabic              | yes     | [#2]   |
-| Chinese             | yes     | [#7]   |
-| Korean              | not yet | [#232] |
+| Language            | Support | Recommended [[⚙️ Strategy]]     | Issue  |
+| ------------------- | ------- | ------------------------------- | ------ |
+| English and similar | yes     | [[default]] or [[english-only]] |        |
+| Japanese            | yes     | [[japanese]]                    |        |
+| Arabic              | yes     | [[arabic]]                      | [#2]   |
+| Chinese             | yes     | [[chinese]]                     | [#7]   |
+| Korean              | not yet | -                               | [#232] |
 
 ## 📱 Support devices/OS
 
