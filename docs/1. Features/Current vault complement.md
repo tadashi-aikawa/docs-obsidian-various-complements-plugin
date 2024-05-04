@@ -20,11 +20,12 @@ For details, you can see [[🖼️ Status bar]].
 ## Related Options
 
 - [[⚙️ Enable Current vault complement]]
-- [[⚙️ Min number of characters for indexing (Current vault complement)]]
+- [[⚙️ Min number of characters for indexing (Current vault complement)|⚙️ Min number of characters for indexing]]
 - [[⚙️ Include prefix path patterns]]
-- [[⚙️ Exclude prefix path patterns (Current vault complement)]]
+- [[⚙️ Exclude prefix path patterns (Current vault complement)|⚙️ Exclude prefix path patterns]]
 - [[⚙️ Include only files under current directory]]
-- [[⚙️ Open source file key]]
+- [[⚙️ Exclude word patterns for indexing (Current vault complement)|⚙️ Exclude word patterns for indexing]]
+- ~~[[⚙️ Open source file key]]~~
 
 ## Matching logic
 

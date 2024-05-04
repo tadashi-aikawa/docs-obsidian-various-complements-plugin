@@ -20,8 +20,9 @@ For details, you can see [[🖼️ Status bar]].
 ## Related Options
 
 - [[⚙️ Enable Current file complement]]
-- [[⚙️ Min number of characters for indexing (Current file complement)]]
+- [[⚙️ Min number of characters for indexing (Current file complement)|⚙️ Min number of characters for indexing]]
 - [[⚙️ Only complement English on current file complement]]
+- [[⚙️ Exclude word patterns for indexing (Current file complement)|⚙️ Exclude word patterns for indexing]]
 
 ## Matching logic
 
