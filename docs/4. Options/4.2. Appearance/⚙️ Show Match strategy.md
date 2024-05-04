@@ -2,8 +2,8 @@
 
 Show [[🖼️ Match strategy]] or not.
 
-- `ON` (default)
-- `OFF`
+- `OFF` (default)
+- `ON`
 
 ## Related issues
 

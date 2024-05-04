@@ -1,7 +1,7 @@
 ## Definitions
 
-- `ON` (default)
-- `OFF`
+- `OFF` (default)
+- `ON`
 
 ## Examples
 

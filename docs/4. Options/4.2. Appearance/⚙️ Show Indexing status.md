@@ -2,8 +2,8 @@
 
 Show [[🖼️ Indexing status]] or not.
 
-- `ON` (default)
-- `OFF`
+- `ON`
+- `OFF` (default)
 
 ## Related issues
 

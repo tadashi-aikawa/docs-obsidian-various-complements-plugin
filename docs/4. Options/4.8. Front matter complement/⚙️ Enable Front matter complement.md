@@ -1,9 +1,9 @@
 ## Definitions
 
-- `ON` (default)
-	- It enables [[Front matter complement]]
-- `OFF`
+- `OFF` (default)
 	- It disables [[Front matter complement]]
+- `ON`
+	- It enables [[Front matter complement]]
 
 ## Since
 
