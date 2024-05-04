@@ -18,6 +18,7 @@ This plugin for [Obsidian] enables you complete words like the auto-completion o
 - [[Internal link complement]]
 - [[Front matter complement]]
 - [[Predictable complement]]
+- [[Fallback linkify]]
 
 ## 🗺️ Support languages
 
