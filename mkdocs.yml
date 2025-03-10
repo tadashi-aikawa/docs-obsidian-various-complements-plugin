@@ -3,6 +3,7 @@ strict: true
 site_name: Various Complements
 repo_url: https://github.com/tadashi-aikawa/obsidian-various-complements-plugin
 edit_uri: https://github.com/tadashi-aikawa/docs-obsidian-various-complements-plugin/edit/main/docs/
+site_url: https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin
 
 theme:
   name: "material"
