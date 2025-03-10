@@ -1,3 +1,6 @@
 mkdocs-material
 git+https://github.com/tadashi-aikawa/mkdocs-roamlinks-plugin.git
-
+mkdocs-glightbox
+mkdocs-backlinks-section-plugin
+mkdocs-git-revision-date-localized-plugin
+mkdocs-git-authors-plugin

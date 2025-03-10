@@ -1,3 +1,5 @@
+strict: true
+
 site_name: Various Complements
 repo_url: https://github.com/tadashi-aikawa/obsidian-various-complements-plugin
 edit_uri: https://github.com/tadashi-aikawa/docs-obsidian-various-complements-plugin/edit/main/docs/
@@ -9,6 +11,8 @@ theme:
     repo: fontawesome/brands/github
   features:
     - navigation.sections
+    - navigation.instant
+    - navigation.instant.progress
 
 extra_css:
   - main.css
@@ -16,19 +20,22 @@ extra_css:
 # Extensions
 markdown_extensions:
   - footnotes
-  # - attr_list
-  # - pymdownx.arithmatex
-  # - pymdownx.superfences
-  # - pymdownx.details
-  # - pymdownx.magiclink
-  # - pymdownx.tasklist:
-  #     custom_checkbox: true
-  #  - pymdownx.emoji:
-  #      emoji_generator: !!python/name:pymdownx.emoji.to_svg
-  # - admonition
   - toc:
       permalink: true
 
 plugins:
   - search
   - roamlinks
+  - glightbox
+  - backlinks_section:
+      title: "🖇️ Backlinks"
+      description: ""
+      add_to_toc: false
+      hide_if_empty: true
+  - git-revision-date-localized:
+      strict: false
+      enable_creation_date: true
+      timezone: Asia/Tokyo
+  - git-authors:
+      strict: false
+      show_email_address: false
