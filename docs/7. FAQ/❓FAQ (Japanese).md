@@ -41,3 +41,14 @@ IMEがオン(日本語入力オン)のときは候補が一切表示されなく
 候補が表示されてもサイクルキー(次/前の候補を選択するキー)を押さなければ、Enterで選択できないようになります。
 
 ![[no-auto-focus-until-the-cycle-on.gif|frame]]
+
+## 他の自動補完プラグインが候補を表示しなくなってしまった
+
+Obsidianの仕組み上、2つの補完ポップアップを同時に表示することはできません。そのため、プラグインのロード順によってどちらが優先されるかが決まってしまいます。
+
+他の自動補完プラグインが先頭の文字をトリガーにしている場合は、Various Complementsの[[⚙️ First characters to disable suggestions]]オプションに指定することで、優先順位を明確にできます。
+
+以下のissueも参考にしてください。
+
+- [Various complements autocompletion blocks tasks autocompletion #318](https://github.com/tadashi-aikawa/obsidian-various-complements-plugin/issues/318)
+- [Conflict with Natural Language Dates plugin and @ trigger #111](https://github.com/tadashi-aikawa/obsidian-various-complements-plugin/issues/111)

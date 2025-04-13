@@ -17,3 +17,15 @@ Enable the [[⚙️ No auto-focus until the cycle]] option.
 With this setting, even when suggestions are displayed, pressing Enter won't select them unless you've first pressed a cycle key (key to select next/previous suggestion).
 
 ![[no-auto-focus-until-the-cycle-on.gif|frame]]
+
+## Issues with other auto-completion plugins not showing suggestions
+
+Due to Obsidian's architecture, it's not possible to display two completion popups simultaneously. Therefore, the loading order of plugins determines which one takes precedence.
+
+If other auto-completion plugins use first characters as triggers, you can specify them in the [[⚙️ First characters to disable suggestions]] option of Various Complements to clarify the priority.
+
+Please refer to the following issues for more information:
+
+- [Various complements autocompletion blocks tasks autocompletion #318](https://github.com/tadashi-aikawa/obsidian-various-complements-plugin/issues/318)
+- [Conflict with Natural Language Dates plugin and @ trigger #111](https://github.com/tadashi-aikawa/obsidian-various-complements-plugin/issues/111)
+
