@@ -34,9 +34,11 @@ plugins:
       add_to_toc: false
       hide_if_empty: true
   - git-revision-date-localized:
+      enabled: !ENV [RELEASE, False]
       strict: false
       enable_creation_date: true
       timezone: Asia/Tokyo
   - git-authors:
+      enabled: !ENV [RELEASE, False]
       strict: false
       show_email_address: false
