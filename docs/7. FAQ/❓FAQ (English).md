@@ -1,1 +1,19 @@
-Coming soon...
+## I don't want suggestions to appear when IME is ON
+
+Enable the [[⚙️ Disable suggestions during IME on]] option.
+
+When IME is on, all suggestions will be completely hidden. Of course, this makes them unavailable during text input in IME language, so use this option when you only want to use English autocomplete and similar cases.
+
+## I don't want suggestions in Math blocks
+
+Enable the [[⚙️ Disable suggestions in the Math block]] option.
+
+No suggestions will be displayed inside blocks enclosed by `$$` and `$$`. However, this won't affect inline blocks like `$1+1$`.
+
+## I want Enter to not select a suggestion unless I've pressed a selection key, similar to IME prediction
+
+Enable the [[⚙️ No auto-focus until the cycle]] option.
+
+With this setting, even when suggestions are displayed, pressing Enter won't select them unless you've first pressed a cycle key (key to select next/previous suggestion).
+
+![[no-auto-focus-until-the-cycle-on.gif|frame]]
