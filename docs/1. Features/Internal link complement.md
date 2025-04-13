@@ -22,10 +22,10 @@ For details, you can see [[🖼️ Status bar]].
 
 - [[⚙️ Enable Internal link complement]]
 - [[⚙️ Suggest with an alias]]
-- [[⚙️ Exclude prefix path patterns (Internal link complement)]]
-- [[⚙️ Open source file key]]
-- [[⚙️ Insert an alias that is transformed from the displayed internal link]]
 - [[⚙️ Update internal links on save]]
+- [[⚙️ Exclude self internal link]]
+- [[⚙️ Insert an alias that is transformed from the displayed internal link]]
+- [[⚙️ Exclude prefix path patterns (Internal link complement)]]
 - [[⚙️ Front matter key for exclusion]]
 
 ## Related pop-up commands
