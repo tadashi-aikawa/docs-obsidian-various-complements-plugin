@@ -25,7 +25,7 @@ For details, you can see [[🖼️ Status bar]].
 - [[⚙️ Exclude prefix path patterns (Current vault complement)|⚙️ Exclude prefix path patterns]]
 - [[⚙️ Include only files under current directory]]
 - [[⚙️ Exclude word patterns for indexing (Current vault complement)|⚙️ Exclude word patterns for indexing]]
-- ~~[[⚙️ Open source file key]]~~
+- `🗑️deleted` [[⚙️ Open source file key]]
 
 ## Matching logic
 

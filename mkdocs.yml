@@ -23,11 +23,14 @@ markdown_extensions:
   - footnotes
   - toc:
       permalink: true
+  - obsidian_callouts
+  - pymdownx.superfences
+  - pymdownx.magiclink
 
 plugins:
   - search
-  - roamlinks
   - glightbox
+  - obsidian-bridge
   - backlinks_section:
       title: "🖇️ Backlinks"
       description: ""
