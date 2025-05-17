@@ -37,8 +37,8 @@ This plugin for [Obsidian] enables you complete words like the auto-completion o
 
 | Device/OS | Support             |
 | --------- | ------------------- |
-| Windows   | yes                 |
-| Mac       | as much as possible |
+| Windows   | as much as possible |
+| Mac       | yes                 |
 | Linux     | as much as possible |
 | Android   | yes                 |
 | iPhone    | as much as possible |
