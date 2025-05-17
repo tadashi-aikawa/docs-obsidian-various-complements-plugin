@@ -6,9 +6,8 @@
 - min: `1`
 - max: `255`
 
-## Notes
-
-It sometimes **suggest under `N`[^1] items even if there are more than `N` items**. So I recommend setting a little bigger than you want.
+> [!NOTE]
+> It sometimes **suggest under `N`[^1] items even if there are more than `N` items**. So I recommend setting a little bigger than you want.
 
 ## Related issues
 

@@ -24,9 +24,11 @@ For details, you can see [[🖼️ Status bar]].
 - [[⚙️ Suggest with an alias]]
 - [[⚙️ Update internal links on save]]
 - [[⚙️ Exclude self internal link]]
+- [[⚙️ Exclude existing in active file internal links]]
 - [[⚙️ Insert an alias that is transformed from the displayed internal link]]
 - [[⚙️ Exclude prefix path patterns (Internal link complement)]]
 - [[⚙️ Front matter key for exclusion]]
+- [[⚙️ Tags for exclusion]]
 
 ## Related pop-up commands
 
