@@ -22,6 +22,7 @@ This plugin for [Obsidian] enables you complete words like the auto-completion o
 
 ## 🗺️ Support languages
 
+
 | Language            | Support | Recommended [[⚙️ Strategy]]     | Issue  |
 | ------------------- | ------- | ------------------------------- | ------ |
 | English and similar | yes     | [[default]] or [[english-only]] |        |
@@ -30,7 +31,9 @@ This plugin for [Obsidian] enables you complete words like the auto-completion o
 | Chinese             | yes     | [[chinese]]                     | [#7]   |
 | Korean              | not yet | -                               | [#232] |
 
+
 ## 📱 Support devices/OS
+
 
 | Device/OS | Support             |
 | --------- | ------------------- |
@@ -41,13 +44,16 @@ This plugin for [Obsidian] enables you complete words like the auto-completion o
 | iPhone    | as much as possible |
 | iPad      | yes                 |
 
+
 ## 🖥️ Support views
+
 
 | Editor/Mode       | Support |
 | ----------------- | ------- |
 | Source mode       | yes     |
 | Live preview mode | yes     |
 | Legacy editor     | no      |
+
 
 [Obsidian]: https://obsidian.md/
 [#2]: https://github.com/tadashi-aikawa/obsidian-various-complements-plugin/issues/2
