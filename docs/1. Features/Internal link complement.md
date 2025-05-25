@@ -33,6 +33,7 @@ For details, you can see [[🖼️ Status bar]].
 ## Related pop-up commands
 
 - [[🗨️select with custom alias]]
+- [[🗨️select with query alias]]
 
 ## Matching logic
 
