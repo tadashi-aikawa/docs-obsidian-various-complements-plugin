@@ -1,3 +1,5 @@
+Settings suitable when there are no appropriate settings available, but you want to separate only English and non-English parts.
+
 You may want to select it if you can't use the other strategies but only use it for English.
 
 ## Differences between `default` and `english-only`

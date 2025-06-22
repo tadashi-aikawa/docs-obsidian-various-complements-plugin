@@ -27,9 +27,9 @@ This plugin for [Obsidian] enables you complete words like the auto-completion o
 | ------------------- | ------- | ------------------------------- | ------ |
 | English and similar | yes     | [[default]] or [[english-only]] |        |
 | Japanese            | yes     | [[japanese]]                    |        |
-| Arabic              | yes     | [[arabic]]                      | [#2]   |
 | Chinese             | yes     | [[chinese]]                     | [#7]   |
-| Korean              | not yet | -                               | [#232] |
+| Korean              | yes     | [[korean]]                      | [#232] |
+| Arabic              | yes     | [[arabic]]                      | [#2]   |
 
 
 ## 📱 Support devices/OS
@@ -40,9 +40,9 @@ This plugin for [Obsidian] enables you complete words like the auto-completion o
 | Windows   | as much as possible |
 | Mac       | yes                 |
 | Linux     | as much as possible |
-| Android   | yes                 |
+| Android   | as much as possible |
 | iPhone    | as much as possible |
-| iPad      | yes                 |
+| iPad      | as much as possible |
 
 
 ## 🖥️ Support views

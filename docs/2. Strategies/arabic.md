@@ -1,4 +1,4 @@
-You may want to select it if you write in Arabic.
+Settings suitable for writing in Arabic.
 
 ## Related issues
 

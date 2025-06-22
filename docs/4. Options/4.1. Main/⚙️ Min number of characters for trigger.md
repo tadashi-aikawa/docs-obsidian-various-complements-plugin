@@ -1,25 +1,31 @@
 ## Definitions
 
+Sets the minimum number of characters required for suggestions to be displayed. For example, if set to `3`, suggestions will not appear when typing `ho`, but will appear when typing `hos` (if matching candidates exist).
+
 - default: `0`
 - min: `0`
 - max: `10`
 
-Note: Setting the value to 0 does not mean the suggestion will be triggered without any inputted character. Depending on the [[⚙️ Strategy]] you choose the actual value will be differ.
+Setting the value to 0 does not mean the suggestion will be triggered without any inputted character. Depending on the [[⚙️ Strategy]] you choose the actual value will be differ. 
+
 
 | Strategy         | Actual value |
 | ---------------- | ------------ |
 | [[default]]      | 3            |
 | [[japanese]]     | 2            |
 | [[chinese]]      | 1            |
+| [[korean]]      | 1            |
 | [[arabic]]       | 3            |
 | [[english-only]] | 3            |
 
-This is especially worth to remember if you use [[Custom dictionary complement]]. For example if your dictionary is like this:
-```csv
-replace me,,rm
-```
 
-If you use the default strategy and set this number to 0, then typing `rm` won't work because the minimum number of characters to triggering the suggestion is 3.
+If you want to change the setting value for different features like [[Custom dictionary complement]] or [[Internal link complement]], use the following settings:
+
+- [[⚙️ Min number of characters for trigger (Current file complement)]]
+- [[⚙️ Min number of characters for trigger (Current vault complement)]]
+- [[⚙️ Min number of characters for trigger (Custom dictionary complement)]]
+- [[⚙️ Min number of characters for trigger (Internal link complement)]]
+
 
 ## Examples
 

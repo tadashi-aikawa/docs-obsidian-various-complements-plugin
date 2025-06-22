@@ -42,6 +42,7 @@ For details, you can see [[🖼️ Status bar]].
 - [[⚙️ Delimiter to divide suggestions for display from ones for insertion]]
 - [[⚙️ Caret location symbol after complement]]
 - [[⚙️ Displayed text suffix]]
+- [[⚙️ Min number of characters for trigger (Custom dictionary complement)|⚙️ Min number of characters for trigger]]
 
 ## Matching logic
 

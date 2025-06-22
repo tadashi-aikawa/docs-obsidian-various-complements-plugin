@@ -1,4 +1,4 @@
-You may want to select it if you write in Chinese.
+Settings suitable for writing in Chinese.
 
 ⚠ **`cedict_ts.u8` is required**
 

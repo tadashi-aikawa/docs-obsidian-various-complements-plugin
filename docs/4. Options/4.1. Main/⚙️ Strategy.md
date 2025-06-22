@@ -5,6 +5,7 @@ This options decides a tokenizer logic.
 - [[default]] (default)
 - [[japanese]]
 - [[chinese]]
+- [[korean]]
 - [[arabic]]
 - [[english-only]]
 

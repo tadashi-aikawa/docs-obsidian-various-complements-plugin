@@ -9,13 +9,16 @@
 
 This option is supported in only a few [[⚙️ Strategy|strategies]].
 
-| [[⚙️ Strategy]] | Suppor        |
+
+| [[⚙️ Strategy]]   | Suppor        |
 | ----------------- | ------------- |
 | [[default]]       | yes           |
 | [[japanese]]      | no            |
 | [[chinese]]       | no            |
+| [[korean]]        | yes           |
 | [[arabic]]        | - (force yes) |
 | [[english-only]]  | yes           |
+
 
 ## Related issues
 

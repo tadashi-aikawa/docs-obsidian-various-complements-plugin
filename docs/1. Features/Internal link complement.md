@@ -29,6 +29,7 @@ For details, you can see [[🖼️ Status bar]].
 - [[⚙️ Exclude prefix path patterns (Internal link complement)]]
 - [[⚙️ Front matter key for exclusion]]
 - [[⚙️ Tags for exclusion]]
+- [[⚙️ Min number of characters for trigger (Internal link complement)|⚙️ Min number of characters for trigger ]]
 
 ## Related pop-up commands
 

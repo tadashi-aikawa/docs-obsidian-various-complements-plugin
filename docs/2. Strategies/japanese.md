@@ -1,4 +1,4 @@
-You may want to select it if you write in Japanese.
+Settings suitable for writing in Japanese.
 
 ## Since
 
