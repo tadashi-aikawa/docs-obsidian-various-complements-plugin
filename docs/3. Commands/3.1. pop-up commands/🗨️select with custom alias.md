@@ -2,7 +2,7 @@ This command inserts the selected suggestion along with a custom alias. The alia
 
 This feature is only available with [[Internal link complement]].
 
-![select with custom alias](../../resources/select-with-custom-alias.webp)
+![[select-with-custom-alias.webp]]
 
 ## Default hotkey
 
