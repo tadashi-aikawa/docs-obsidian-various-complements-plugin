@@ -2,414 +2,434 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/1.%20Features/Current%20file%20complement/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/1.%20Features/Current%20vault%20complement/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/1.%20Features/Custom%20dictionary%20complement/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/1.%20Features/Fallback%20linkify/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/1.%20Features/Front%20matter%20complement/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/1.%20Features/Intelligent%20suggestion%20prioritization/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/1.%20Features/Internal%20link%20complement/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/1.%20Features/Predictable%20complement/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/2.%20Strategies/arabic/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/2.%20Strategies/chinese/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/2.%20Strategies/default/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/2.%20Strategies/english-only/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/2.%20Strategies/japanese/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
+    </url>
+    <url>
+         <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/2.%20Strategies/korean/</loc>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/3.%20Commands/%F0%9F%8E%AE%20Add%20a%20word%20to%20a%20custom%20dictionary/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/3.%20Commands/%F0%9F%8E%AE%20Copy%20plugin%20settings/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/3.%20Commands/%F0%9F%8E%AE%20Hide%20suggestions/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/3.%20Commands/%F0%9F%8E%AE%20Predictable%20complement/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/3.%20Commands/%F0%9F%8E%AE%20Reload%20current%20vault/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/3.%20Commands/%F0%9F%8E%AE%20Reload%20custom%20dictionaries/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/3.%20Commands/%F0%9F%8E%AE%20Show%20suggestions/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/3.%20Commands/%F0%9F%8E%AE%20Toggle%20Complement%20automatically/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/3.%20Commands/%F0%9F%8E%AE%20Toggle%20Match%20strategy/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/3.%20Commands/3.1.%20pop-up%20commands/%F0%9F%97%A8%EF%B8%8Fselect%20with%20custom%20alias/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/3.%20Commands/3.1.%20pop-up%20commands/%F0%9F%97%A8%EF%B8%8Fselect%20with%20query%20alias/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.1.%20Main/%E2%9A%99%EF%B8%8F%20CC-CEDICT%20path/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.1.%20Main/%E2%9A%99%EF%B8%8F%20Complement%20automatically/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.1.%20Main/%E2%9A%99%EF%B8%8F%20Delay%20milli-seconds%20for%20trigger/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.1.%20Main/%E2%9A%99%EF%B8%8F%20Disable%20suggestions%20during%20IME%20on/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.1.%20Main/%E2%9A%99%EF%B8%8F%20Disable%20suggestions%20in%20the%20Math%20block/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.1.%20Main/%E2%9A%99%EF%B8%8F%20First%20characters%20to%20disable%20suggestions/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.1.%20Main/%E2%9A%99%EF%B8%8F%20Fuzzy%20match/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.1.%20Main/%E2%9A%99%EF%B8%8F%20Insert%20space%20after%20completion/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.1.%20Main/%E2%9A%99%EF%B8%8F%20Line%20patterns%20to%20suppress%20trigger/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.1.%20Main/%E2%9A%99%EF%B8%8F%20Match%20strategy/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.1.%20Main/%E2%9A%99%EF%B8%8F%20Max%20number%20of%20suggestions/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.1.%20Main/%E2%9A%99%EF%B8%8F%20Max%20number%20of%20words%20as%20a%20phrase/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.1.%20Main/%E2%9A%99%EF%B8%8F%20Min%20fuzzy%20match%20score/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.1.%20Main/%E2%9A%99%EF%B8%8F%20Min%20number%20of%20characters%20for%20trigger/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.1.%20Main/%E2%9A%99%EF%B8%8F%20Min%20number%20of%20words%20for%20trigger/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.1.%20Main/%E2%9A%99%EF%B8%8F%20No%20auto-focus%20until%20the%20cycle/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.1.%20Main/%E2%9A%99%EF%B8%8F%20Phrase%20patterns%20to%20suppress%20trigger/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.1.%20Main/%E2%9A%99%EF%B8%8F%20Strategy/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.1.%20Main/%E2%9A%99%EF%B8%8F%20Treat%20accent%20diacritics%20as%20alphabetic%20characters/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.1.%20Main/%E2%9A%99%EF%B8%8F%20Treat%20an%20underscore%20as%20a%20part%20of%20a%20word/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.2.%20Appearance/%E2%9A%99%EF%B8%8F%20Description%20on%20suggestion/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.2.%20Appearance/%E2%9A%99%EF%B8%8F%20Show%20Complement%20automatically/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.2.%20Appearance/%E2%9A%99%EF%B8%8F%20Show%20Indexing%20status/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.2.%20Appearance/%E2%9A%99%EF%B8%8F%20Show%20Match%20strategy/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.3.%20Key%20customization/%E2%9A%99%EF%B8%8F%20Hotkeys/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.3.%20Key%20customization/%E2%9A%99%EF%B8%8F%20Propagate%20ESC/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.3.%20Key%20customization/old/%E2%9A%99%EF%B8%8F%20Additional%20cycle%20through%20suggestions%20keys/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.3.%20Key%20customization/old/%E2%9A%99%EF%B8%8F%20Disable%20the%20up%2Cdown%20keys%20for%20cycle%20through%20suggestions%20keys/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.3.%20Key%20customization/old/%E2%9A%99%EF%B8%8F%20Open%20source%20file%20key/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.3.%20Key%20customization/old/%E2%9A%99%EF%B8%8F%20Select%20a%20suggestion%20key/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.4.%20Current%20file%20complement/%E2%9A%99%EF%B8%8F%20Enable%20Current%20file%20complement/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.4.%20Current%20file%20complement/%E2%9A%99%EF%B8%8F%20Exclude%20word%20patterns%20for%20indexing%20%28Current%20file%20complement%29/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.4.%20Current%20file%20complement/%E2%9A%99%EF%B8%8F%20Min%20number%20of%20characters%20for%20indexing%20%28Current%20file%20complement%29/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
+    </url>
+    <url>
+         <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.4.%20Current%20file%20complement/%E2%9A%99%EF%B8%8F%20Min%20number%20of%20characters%20for%20trigger%20%28Current%20file%20complement%29/</loc>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.4.%20Current%20file%20complement/%E2%9A%99%EF%B8%8F%20Only%20complement%20English%20on%20current%20file%20complement/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.5.%20Current%20vault%20complement/%E2%9A%99%EF%B8%8F%20Enable%20Current%20vault%20complement/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.5.%20Current%20vault%20complement/%E2%9A%99%EF%B8%8F%20Exclude%20prefix%20path%20patterns%20%28Current%20vault%20complement%29/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.5.%20Current%20vault%20complement/%E2%9A%99%EF%B8%8F%20Exclude%20word%20patterns%20for%20indexing%20%28Current%20vault%20complement%29/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.5.%20Current%20vault%20complement/%E2%9A%99%EF%B8%8F%20Include%20only%20files%20under%20current%20directory/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.5.%20Current%20vault%20complement/%E2%9A%99%EF%B8%8F%20Include%20prefix%20path%20patterns/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.5.%20Current%20vault%20complement/%E2%9A%99%EF%B8%8F%20Min%20number%20of%20characters%20for%20indexing%20%28Current%20vault%20complement%29/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
+    </url>
+    <url>
+         <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.5.%20Current%20vault%20complement/%E2%9A%99%EF%B8%8F%20Min%20number%20of%20characters%20for%20trigger%20%28Current%20vault%20complement%29/</loc>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.6.%20Custom%20dictionary%20complement/%E2%9A%99%EF%B8%8F%20Caret%20location%20symbol%20after%20complement/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.6.%20Custom%20dictionary%20complement/%E2%9A%99%EF%B8%8F%20Column%20delimiter/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.6.%20Custom%20dictionary%20complement/%E2%9A%99%EF%B8%8F%20Custom%20dictionary%20paths/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.6.%20Custom%20dictionary%20complement/%E2%9A%99%EF%B8%8F%20Delimiter%20to%20divide%20suggestions%20for%20display%20from%20ones%20for%20insertion/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.6.%20Custom%20dictionary%20complement/%E2%9A%99%EF%B8%8F%20Delimiter%20to%20hide%20a%20suggestion/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.6.%20Custom%20dictionary%20complement/%E2%9A%99%EF%B8%8F%20Displayed%20text%20suffix/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.6.%20Custom%20dictionary%20complement/%E2%9A%99%EF%B8%8F%20Enable%20Custom%20dictionary%20complement/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
+    </url>
+    <url>
+         <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.6.%20Custom%20dictionary%20complement/%E2%9A%99%EF%B8%8F%20Min%20number%20of%20characters%20for%20trigger%20%28Custom%20dictionary%20complement%29/</loc>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.6.%20Custom%20dictionary%20complement/%E2%9A%99%EF%B8%8FWord%20regex%20pattern/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.7.%20Internal%20link%20complement/%E2%9A%99%EF%B8%8F%20Enable%20Internal%20link%20complement/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.7.%20Internal%20link%20complement/%E2%9A%99%EF%B8%8F%20Exclude%20existing%20in%20active%20file%20internal%20links/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.7.%20Internal%20link%20complement/%E2%9A%99%EF%B8%8F%20Exclude%20prefix%20path%20patterns%20%28Internal%20link%20complement%29/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.7.%20Internal%20link%20complement/%E2%9A%99%EF%B8%8F%20Exclude%20self%20internal%20link/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.7.%20Internal%20link%20complement/%E2%9A%99%EF%B8%8F%20Front%20matter%20key%20for%20exclusion/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.7.%20Internal%20link%20complement/%E2%9A%99%EF%B8%8F%20Insert%20an%20alias%20that%20is%20transformed%20from%20the%20displayed%20internal%20link/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
+    </url>
+    <url>
+         <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.7.%20Internal%20link%20complement/%E2%9A%99%EF%B8%8F%20Min%20number%20of%20characters%20for%20trigger%20%28Internal%20link%20complement%29/</loc>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.7.%20Internal%20link%20complement/%E2%9A%99%EF%B8%8F%20Suggest%20with%20an%20alias/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.7.%20Internal%20link%20complement/%E2%9A%99%EF%B8%8F%20Tags%20for%20exclusion/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.7.%20Internal%20link%20complement/%E2%9A%99%EF%B8%8F%20Update%20internal%20links%20on%20save/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.8.%20Front%20matter%20complement/%E2%9A%99%EF%B8%8F%20Enable%20Front%20matter%20complement/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.8.%20Front%20matter%20complement/%E2%9A%99%EF%B8%8F%20Insert%20comma%20after%20completion/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.8.%20Front%20matter%20complement/%E2%9A%99%EF%B8%8F%20Match%20strategy%20in%20the%20front%20matter/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.9.%20Intelligent%20suggestion%20prioritization/%E2%9A%99%EF%B8%8F%20Enable%20Intelligent%20Suggestion%20Prioritization/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.9.%20Intelligent%20suggestion%20prioritization/%E2%9A%99%EF%B8%8F%20History%20file%20path/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.9.%20Intelligent%20suggestion%20prioritization/%E2%9A%99%EF%B8%8F%20Max%20days%20to%20keep%20history/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.9.%20Intelligent%20suggestion%20prioritization/%E2%9A%99%EF%B8%8F%20Max%20number%20of%20history%20to%20keep/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.a.%20Mobile/%E2%9A%99%EF%B8%8F%20Disable%20on%20mobile/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/5.%20Terms/%F0%9F%93%9A%20Custom%20dictionaries/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/5.%20Terms/%F0%9F%93%9A%20Custom%20dictionary%20formats/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/5.%20Terms/%F0%9F%93%9A%20Histories/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/5.%20Terms/%F0%9F%96%B1%EF%B8%8F%20Add%20to%20custom%20dictionary%20context%20menu/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/5.%20Terms/%F0%9F%96%BC%EF%B8%8F%20Add%20a%20word%20to%20a%20custom%20dictionary%20dialog/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/5.%20Terms/%F0%9F%96%BC%EF%B8%8F%20Complement%20automatically/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/5.%20Terms/%F0%9F%96%BC%EF%B8%8F%20Indexing%20status/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/5.%20Terms/%F0%9F%96%BC%EF%B8%8F%20Match%20strategy/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/5.%20Terms/%F0%9F%96%BC%EF%B8%8F%20Status%20bar/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/6.%20Showcase/%F0%9F%8E%A4%20Media/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/6.%20Showcase/%F0%9F%93%93%20Custom%20dictionary%20examples/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/7.%20FAQ/%E2%9D%93FAQ%20%28English%29/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
     <url>
          <loc>https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/7.%20FAQ/%E2%9D%93FAQ%20%28Japanese%29/</loc>
-         <lastmod>2025-05-25</lastmod>
+         <lastmod>2025-06-22</lastmod>
     </url>
 </urlset>

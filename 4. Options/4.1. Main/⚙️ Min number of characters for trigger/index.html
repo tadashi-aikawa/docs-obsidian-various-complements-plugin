@@ -638,6 +638,29 @@
 
               
             
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../2.%20Strategies/korean/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Korean
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
           </ul>
         </nav>
       
@@ -2139,6 +2162,29 @@
   
   
     <li class="md-nav__item">
+      <a href="../../4.4.%20Current%20file%20complement/%E2%9A%99%EF%B8%8F%20Min%20number%20of%20characters%20for%20trigger%20%28Current%20file%20complement%29/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    ⚙️ Min number of characters for trigger (Current file complement)
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../4.4.%20Current%20file%20complement/%E2%9A%99%EF%B8%8F%20Only%20complement%20English%20on%20current%20file%20complement/" class="md-nav__link">
         
   
@@ -2331,6 +2377,29 @@
   
   <span class="md-ellipsis">
     ⚙️ Min number of characters for indexing (Current vault complement)
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../4.5.%20Current%20vault%20complement/%E2%9A%99%EF%B8%8F%20Min%20number%20of%20characters%20for%20trigger%20%28Current%20vault%20complement%29/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    ⚙️ Min number of characters for trigger (Current vault complement)
     
   </span>
   
@@ -2557,6 +2626,29 @@
   
   
     <li class="md-nav__item">
+      <a href="../../4.6.%20Custom%20dictionary%20complement/%E2%9A%99%EF%B8%8F%20Min%20number%20of%20characters%20for%20trigger%20%28Custom%20dictionary%20complement%29/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    ⚙️ Min number of characters for trigger (Custom dictionary complement)
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../4.6.%20Custom%20dictionary%20complement/%E2%9A%99%EF%B8%8FWord%20regex%20pattern/" class="md-nav__link">
         
   
@@ -2749,6 +2841,29 @@
   
   <span class="md-ellipsis">
     ⚙️ Insert an alias that is transformed from the displayed internal link
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../4.7.%20Internal%20link%20complement/%E2%9A%99%EF%B8%8F%20Min%20number%20of%20characters%20for%20trigger%20%28Internal%20link%20complement%29/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    ⚙️ Min number of characters for trigger (Internal link complement)
     
   </span>
   
@@ -3726,12 +3841,13 @@
   <h1>⚙️ Min number of characters for trigger</h1>
 
 <h2 id="definitions">Definitions<a class="headerlink" href="#definitions" title="Permanent link">&para;</a></h2>
+<p>Sets the minimum number of characters required for suggestions to be displayed. For example, if set to <code>3</code>, suggestions will not appear when typing <code>ho</code>, but will appear when typing <code>hos</code> (if matching candidates exist).</p>
 <ul>
 <li>default: <code>0</code></li>
 <li>min: <code>0</code></li>
 <li>max: <code>10</code></li>
 </ul>
-<p>Note: Setting the value to 0 does not mean the suggestion will be triggered without any inputted character. Depending on the <a href="../%E2%9A%99%EF%B8%8F%20Strategy/">⚙️ Strategy</a> you choose the actual value will be differ.</p>
+<p>Setting the value to 0 does not mean the suggestion will be triggered without any inputted character. Depending on the <a href="../%E2%9A%99%EF%B8%8F%20Strategy/">⚙️ Strategy</a> you choose the actual value will be differ. </p>
 <table>
 <thead>
 <tr>
@@ -3753,6 +3869,10 @@
 <td>1</td>
 </tr>
 <tr>
+<td><a href="../../../2.%20Strategies/korean/">korean</a></td>
+<td>1</td>
+</tr>
+<tr>
 <td><a href="../../../2.%20Strategies/arabic/">arabic</a></td>
 <td>3</td>
 </tr>
@@ -3762,10 +3882,13 @@
 </tr>
 </tbody>
 </table>
-<p>This is especially worth to remember if you use <a href="../../../1.%20Features/Custom%20dictionary%20complement/">Custom dictionary complement</a>. For example if your dictionary is like this:
-<div class="highlight"><pre><span></span><code>replace me,,rm
-</code></pre></div></p>
-<p>If you use the default strategy and set this number to 0, then typing <code>rm</code> won't work because the minimum number of characters to triggering the suggestion is 3.</p>
+<p>If you want to change the setting value for different features like <a href="../../../1.%20Features/Custom%20dictionary%20complement/">Custom dictionary complement</a> or <a href="../../../1.%20Features/Internal%20link%20complement/">Internal link complement</a>, use the following settings:</p>
+<ul>
+<li><a href="../../4.4.%20Current%20file%20complement/%E2%9A%99%EF%B8%8F%20Min%20number%20of%20characters%20for%20trigger%20%28Current%20file%20complement%29/">⚙️ Min number of characters for trigger (Current file complement)</a></li>
+<li><a href="../../4.5.%20Current%20vault%20complement/%E2%9A%99%EF%B8%8F%20Min%20number%20of%20characters%20for%20trigger%20%28Current%20vault%20complement%29/">⚙️ Min number of characters for trigger (Current vault complement)</a></li>
+<li><a href="../../4.6.%20Custom%20dictionary%20complement/%E2%9A%99%EF%B8%8F%20Min%20number%20of%20characters%20for%20trigger%20%28Custom%20dictionary%20complement%29/">⚙️ Min number of characters for trigger (Custom dictionary complement)</a></li>
+<li><a href="../../4.7.%20Internal%20link%20complement/%E2%9A%99%EF%B8%8F%20Min%20number%20of%20characters%20for%20trigger%20%28Internal%20link%20complement%29/">⚙️ Min number of characters for trigger (Internal link complement)</a></li>
+</ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <h3 id="set-to-2">Set to 2<a class="headerlink" href="#set-to-2" title="Permanent link">&para;</a></h3>
 <p><a class="glightbox" href="../../../resources/min-number-of-characters-for-trigger-2.gif" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="min-number-of-characters-for-trigger-2.gif" src="../../../resources/min-number-of-characters-for-trigger-2.gif" /></a></p>
@@ -3801,7 +3924,7 @@
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="October 29, 2023 16:59:07 JST">October 29, 2023</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="June 22, 2025 23:59:07 JST">June 22, 2025</span>
   </span>
 
     
