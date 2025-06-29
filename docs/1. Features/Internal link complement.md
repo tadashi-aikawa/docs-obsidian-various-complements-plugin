@@ -27,6 +27,7 @@ For details, you can see [[🖼️ Status bar]].
 - [[⚙️ Exclude existing in active file internal links]]
 - [[⚙️ Insert an alias that is transformed from the displayed internal link]]
 - [[⚙️ Exclude prefix path patterns (Internal link complement)]]
+- [[⚙️ Exclude path glob patterns (Internal link complement)|⚙️ Exclude path glob patterns]]
 - [[⚙️ Front matter key for exclusion]]
 - [[⚙️ Tags for exclusion]]
 - [[⚙️ Min number of characters for trigger (Internal link complement)|⚙️ Min number of characters for trigger ]]

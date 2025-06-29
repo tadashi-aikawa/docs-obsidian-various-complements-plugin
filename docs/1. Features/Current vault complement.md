@@ -23,6 +23,7 @@ For details, you can see [[🖼️ Status bar]].
 - [[⚙️ Min number of characters for indexing (Current vault complement)|⚙️ Min number of characters for indexing]]
 - [[⚙️ Include prefix path patterns]]
 - [[⚙️ Exclude prefix path patterns (Current vault complement)|⚙️ Exclude prefix path patterns]]
+- [[⚙️ Exclude path glob patterns (Current vault complement)|⚙️ Exclude path glob patterns]]
 - [[⚙️ Include only files under current directory]]
 - [[⚙️ Min number of characters for trigger (Current vault complement)|⚙️ Min number of characters for trigger]]
 - [[⚙️ Exclude word patterns for indexing (Current vault complement)|⚙️ Exclude word patterns for indexing]]
