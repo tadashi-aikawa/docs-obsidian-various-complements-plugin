@@ -8,13 +8,13 @@
       
       
       
-        <link rel="canonical" href="https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.9.%20Intelligent%20suggestion%20prioritization/%E2%9A%99%EF%B8%8F%20Max%20days%20to%20keep%20history/">
+        <link rel="canonical" href="https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/4.%20Options/4.5.%20Current%20vault%20complement/%E2%9A%99%EF%B8%8F%20Exclude%20path%20glob%20patterns%20%28Current%20vault%20complement%29/">
       
       
-        <link rel="prev" href="../%E2%9A%99%EF%B8%8F%20History%20file%20path/">
+        <link rel="prev" href="../%E2%9A%99%EF%B8%8F%20Enable%20Current%20vault%20complement/">
       
       
-        <link rel="next" href="../%E2%9A%99%EF%B8%8F%20Max%20number%20of%20history%20to%20keep/">
+        <link rel="next" href="../%E2%9A%99%EF%B8%8F%20Exclude%20prefix%20path%20patterns%20%28Current%20vault%20complement%29/">
       
       
       <link rel="icon" href="../../../assets/images/favicon.png">
@@ -22,7 +22,7 @@
     
     
       
-        <title>⚙️ Max days to keep history - Various Complements</title>
+        <title>⚙️ Exclude path glob patterns (Current vault complement) - Various Complements</title>
       
     
     
@@ -111,7 +111,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              ⚙️ Max days to keep history
+              ⚙️ Exclude path glob patterns (Current vault complement)
             
           </span>
         </div>
@@ -2113,6 +2113,8 @@
                 
   
   
+    
+  
   
   
     
@@ -2122,11 +2124,11 @@
       
     
     
-    <li class="md-nav__item md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_5" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_5" checked>
         
           
           <label class="md-nav__link" for="__nav_5_5" id="__nav_5_5_label" tabindex="0">
@@ -2142,7 +2144,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_5_label" aria-expanded="false">
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_5_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_5_5">
             <span class="md-nav__icon md-icon"></span>
             4.5. Current vault complement
@@ -2156,7 +2158,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../4.5.%20Current%20vault%20complement/%E2%9A%99%EF%B8%8F%20Enable%20Current%20vault%20complement/" class="md-nav__link">
+      <a href="../%E2%9A%99%EF%B8%8F%20Enable%20Current%20vault%20complement/" class="md-nav__link">
         
   
   
@@ -2176,10 +2178,30 @@
                 
   
   
+    
   
   
-    <li class="md-nav__item">
-      <a href="../../4.5.%20Current%20vault%20complement/%E2%9A%99%EF%B8%8F%20Exclude%20path%20glob%20patterns%20%28Current%20vault%20complement%29/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    ⚙️ Exclude path glob patterns (Current vault complement)
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         
   
   
@@ -2190,6 +2212,120 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#definitions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Definitions
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#performance-considerations" class="md-nav__link">
+    <span class="md-ellipsis">
+      Performance Considerations
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#pattern-examples" class="md-nav__link">
+    <span class="md-ellipsis">
+      Pattern Examples
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Pattern Examples">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#exclude-files-in-attachments-folders-at-any-level" class="md-nav__link">
+    <span class="md-ellipsis">
+      Exclude files in attachments folders at any level
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#exclude-specific-file-types" class="md-nav__link">
+    <span class="md-ellipsis">
+      Exclude specific file types
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#exclude-files-in-directories-at-vault-root" class="md-nav__link">
+    <span class="md-ellipsis">
+      Exclude files in directories at vault root
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#complex-patterns" class="md-nav__link">
+    <span class="md-ellipsis">
+      Complex patterns
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#implementation-details" class="md-nav__link">
+    <span class="md-ellipsis">
+      Implementation Details
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#related-issues" class="md-nav__link">
+    <span class="md-ellipsis">
+      Related issues
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#since" class="md-nav__link">
+    <span class="md-ellipsis">
+      Since
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
     </li>
   
 
@@ -2202,7 +2338,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../4.5.%20Current%20vault%20complement/%E2%9A%99%EF%B8%8F%20Exclude%20prefix%20path%20patterns%20%28Current%20vault%20complement%29/" class="md-nav__link">
+      <a href="../%E2%9A%99%EF%B8%8F%20Exclude%20prefix%20path%20patterns%20%28Current%20vault%20complement%29/" class="md-nav__link">
         
   
   
@@ -2225,7 +2361,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../4.5.%20Current%20vault%20complement/%E2%9A%99%EF%B8%8F%20Exclude%20word%20patterns%20for%20indexing%20%28Current%20vault%20complement%29/" class="md-nav__link">
+      <a href="../%E2%9A%99%EF%B8%8F%20Exclude%20word%20patterns%20for%20indexing%20%28Current%20vault%20complement%29/" class="md-nav__link">
         
   
   
@@ -2248,7 +2384,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../4.5.%20Current%20vault%20complement/%E2%9A%99%EF%B8%8F%20Include%20only%20files%20under%20current%20directory/" class="md-nav__link">
+      <a href="../%E2%9A%99%EF%B8%8F%20Include%20only%20files%20under%20current%20directory/" class="md-nav__link">
         
   
   
@@ -2271,7 +2407,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../4.5.%20Current%20vault%20complement/%E2%9A%99%EF%B8%8F%20Include%20prefix%20path%20patterns/" class="md-nav__link">
+      <a href="../%E2%9A%99%EF%B8%8F%20Include%20prefix%20path%20patterns/" class="md-nav__link">
         
   
   
@@ -2294,7 +2430,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../4.5.%20Current%20vault%20complement/%E2%9A%99%EF%B8%8F%20Min%20number%20of%20characters%20for%20indexing%20%28Current%20vault%20complement%29/" class="md-nav__link">
+      <a href="../%E2%9A%99%EF%B8%8F%20Min%20number%20of%20characters%20for%20indexing%20%28Current%20vault%20complement%29/" class="md-nav__link">
         
   
   
@@ -2317,7 +2453,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../4.5.%20Current%20vault%20complement/%E2%9A%99%EF%B8%8F%20Min%20number%20of%20characters%20for%20trigger%20%28Current%20vault%20complement%29/" class="md-nav__link">
+      <a href="../%E2%9A%99%EF%B8%8F%20Min%20number%20of%20characters%20for%20trigger%20%28Current%20vault%20complement%29/" class="md-nav__link">
         
   
   
@@ -3018,8 +3154,6 @@
                 
   
   
-    
-  
   
   
     
@@ -3029,11 +3163,11 @@
       
     
     
-    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_9" checked>
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_9" >
         
           
           <label class="md-nav__link" for="__nav_5_9" id="__nav_5_9_label" tabindex="0">
@@ -3049,7 +3183,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_9_label" aria-expanded="true">
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_9_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_5_9">
             <span class="md-nav__icon md-icon"></span>
             4.9. Intelligent suggestion prioritization
@@ -3063,7 +3197,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../%E2%9A%99%EF%B8%8F%20Enable%20Intelligent%20Suggestion%20Prioritization/" class="md-nav__link">
+      <a href="../../4.9.%20Intelligent%20suggestion%20prioritization/%E2%9A%99%EF%B8%8F%20Enable%20Intelligent%20Suggestion%20Prioritization/" class="md-nav__link">
         
   
   
@@ -3086,7 +3220,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../%E2%9A%99%EF%B8%8F%20History%20file%20path/" class="md-nav__link">
+      <a href="../../4.9.%20Intelligent%20suggestion%20prioritization/%E2%9A%99%EF%B8%8F%20History%20file%20path/" class="md-nav__link">
         
   
   
@@ -3106,30 +3240,10 @@
                 
   
   
-    
   
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
-      
-      
-      
-        <label class="md-nav__link md-nav__link--active" for="__toc">
-          
-  
-  
-  <span class="md-ellipsis">
-    ⚙️ Max days to keep history
-    
-  </span>
-  
-
-          <span class="md-nav__icon md-icon"></span>
-        </label>
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../../4.9.%20Intelligent%20suggestion%20prioritization/%E2%9A%99%EF%B8%8F%20Max%20days%20to%20keep%20history/" class="md-nav__link">
         
   
   
@@ -3140,51 +3254,6 @@
   
 
       </a>
-      
-        
-
-<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-  
-  
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#definitions" class="md-nav__link">
-    <span class="md-ellipsis">
-      Definitions
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#related-issues" class="md-nav__link">
-    <span class="md-ellipsis">
-      Related issues
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#since" class="md-nav__link">
-    <span class="md-ellipsis">
-      Since
-    </span>
-  </a>
-  
-</li>
-      
-    </ul>
-  
-</nav>
-      
     </li>
   
 
@@ -3197,7 +3266,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../%E2%9A%99%EF%B8%8F%20Max%20number%20of%20history%20to%20keep/" class="md-nav__link">
+      <a href="../../4.9.%20Intelligent%20suggestion%20prioritization/%E2%9A%99%EF%B8%8F%20Max%20number%20of%20history%20to%20keep/" class="md-nav__link">
         
   
   
@@ -3782,6 +3851,75 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#performance-considerations" class="md-nav__link">
+    <span class="md-ellipsis">
+      Performance Considerations
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#pattern-examples" class="md-nav__link">
+    <span class="md-ellipsis">
+      Pattern Examples
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Pattern Examples">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#exclude-files-in-attachments-folders-at-any-level" class="md-nav__link">
+    <span class="md-ellipsis">
+      Exclude files in attachments folders at any level
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#exclude-specific-file-types" class="md-nav__link">
+    <span class="md-ellipsis">
+      Exclude specific file types
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#exclude-files-in-directories-at-vault-root" class="md-nav__link">
+    <span class="md-ellipsis">
+      Exclude files in directories at vault root
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#complex-patterns" class="md-nav__link">
+    <span class="md-ellipsis">
+      Complex patterns
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#implementation-details" class="md-nav__link">
+    <span class="md-ellipsis">
+      Implementation Details
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#related-issues" class="md-nav__link">
     <span class="md-ellipsis">
       Related issues
@@ -3818,22 +3956,52 @@
   
 
 
-  <h1>⚙️ Max days to keep history</h1>
+  <h1>⚙️ Exclude path glob patterns (Current vault complement)</h1>
 
 <h2 id="definitions">Definitions<a class="headerlink" href="#definitions" title="Permanent link">&para;</a></h2>
 <ul>
-<li>default: <code>30</code></li>
-<li>min: <code>0</code></li>
-<li>max: <code>365</code></li>
+<li>Glob patterns to exclude files using advanced wildcard matching</li>
+<li>More flexible than prefix patterns but with higher processing overhead</li>
+<li>Supports complex patterns like <code>**/attachments</code>, <code>**/*.{png,jpg}</code>, <code>Private/**</code></li>
+<li>You can set multiple patterns by separating line breaks</li>
+<li>default: (empty)</li>
 </ul>
-<p><strong>If set 0, it will never remove.</strong></p>
+<h2 id="performance-considerations">Performance Considerations<a class="headerlink" href="#performance-considerations" title="Permanent link">&para;</a></h2>
+<div class="admonition warning">
+<p class="admonition-title"><strong>Performance Warning</strong></p>
+<p>Glob patterns add processing overhead during file indexing. Use <a href="../%E2%9A%99%EF%B8%8F%20Exclude%20prefix%20path%20patterns%20%28Current%20vault%20complement%29/">⚙️ Exclude prefix path patterns (Current vault complement)</a> when possible for better performance.</p>
+</div>
+<h2 id="pattern-examples">Pattern Examples<a class="headerlink" href="#pattern-examples" title="Permanent link">&para;</a></h2>
+<h3 id="exclude-files-in-attachments-folders-at-any-level">Exclude files in attachments folders at any level<a class="headerlink" href="#exclude-files-in-attachments-folders-at-any-level" title="Permanent link">&para;</a></h3>
+<div class="highlight"><pre><span></span><code>**/attachments/**
+</code></pre></div>
+<h3 id="exclude-specific-file-types">Exclude specific file types<a class="headerlink" href="#exclude-specific-file-types" title="Permanent link">&para;</a></h3>
+<div class="highlight"><pre><span></span><code>**/*.{png,jpg,gif}
+**/*.tmp
+</code></pre></div>
+<h3 id="exclude-files-in-directories-at-vault-root">Exclude files in directories at vault root<a class="headerlink" href="#exclude-files-in-directories-at-vault-root" title="Permanent link">&para;</a></h3>
+<div class="highlight"><pre><span></span><code>Private/**
+Templates/**
+</code></pre></div>
+<h3 id="complex-patterns">Complex patterns<a class="headerlink" href="#complex-patterns" title="Permanent link">&para;</a></h3>
+<div class="highlight"><pre><span></span><code>**/attachments/**
+**/*.{png,jpg,gif,pdf}
+Private/**
+Templates/drafts/**
+</code></pre></div>
+<h2 id="implementation-details">Implementation Details<a class="headerlink" href="#implementation-details" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Invalid patterns are safely ignored with console warnings</li>
+<li>Applied with OR logic - if any pattern matches, the file is excluded</li>
+<li>Both prefix patterns and glob patterns are applied (files matching either are excluded)</li>
+</ul>
 <h2 id="related-issues">Related issues<a class="headerlink" href="#related-issues" title="Permanent link">&para;</a></h2>
 <ul>
-<li><a href="https://github.com/tadashi-aikawa/obsidian-various-complements-plugin/issues/131">Algorithm for Intelligent suggestion - possible tweaking · Issue #131</a></li>
+<li><a href="https://github.com/tadashi-aikawa/obsidian-various-complements-plugin/issues/354">Possible to exclude suffix path pattern? #354</a></li>
 </ul>
 <h2 id="since">Since<a class="headerlink" href="#since" title="Permanent link">&para;</a></h2>
-<p><code>v7.2.0</code></p>
-<p><h2>🖇️ Backlinks</h2><ul><li><a href="../../../1.%20Features/Intelligent%20suggestion%20prioritization/">Intelligent suggestion prioritization</a></li></ul></p>
+<p><code>v10.7.0</code></p>
+<p><h2>🖇️ Backlinks</h2><ul><li><a href="../../../1.%20Features/Current%20vault%20complement/">Current vault complement</a></li></ul></p>
 
 
 
@@ -3856,7 +4024,7 @@
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="March 19, 2023 20:30:42 JST">March 19, 2023</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="June 29, 2025 19:41:25 JST">June 29, 2025</span>
   </span>
 
     
@@ -3866,7 +4034,7 @@
     <span class="md-icon" title="Created">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14.47 15.08 11 13V7h1.5v5.25l3.08 1.83c-.41.28-.79.62-1.11 1m-1.39 4.84c-.36.05-.71.08-1.08.08-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8c0 .37-.03.72-.08 1.08.69.1 1.33.32 1.92.64.1-.56.16-1.13.16-1.72 0-5.5-4.5-10-10-10S2 6.5 2 12s4.47 10 10 10c.59 0 1.16-.06 1.72-.16-.32-.59-.54-1.23-.64-1.92M18 15v3h-3v2h3v3h2v-3h3v-2h-3v-3z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="August 30, 2022 14:58:51 JST">August 30, 2022</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="June 29, 2025 19:41:25 JST">June 29, 2025</span>
   </span>
 
     
