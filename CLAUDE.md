@@ -70,3 +70,23 @@ This is a documentation-only repository. The actual plugin code is maintained in
 3. Place media files in `docs/resources/`
 4. Test locally using `task dev` before committing
 5. Maintain the hierarchical organization structure
+
+## Documentation Update Process
+
+When new features are added to the plugin (analyzed from commits in the main plugin repository):
+
+1. **Create individual option documentation files** in the appropriate `4. Options/` subdirectory
+2. **Update feature pages** (`1. Features/`) to include new options in the "Related Options" section
+3. **Follow established formatting conventions**:
+   - Use Obsidian callout format for warnings: `> [!WARNING] **Title**`
+   - Keep Implementation Details concise, focusing on key behavioral points
+   - Use accurate issue titles and numbers in "Related issues" sections
+   - Be precise with glob pattern examples to avoid confusion (e.g., `Private/**` affects vault root only, not arbitrary levels)
+
+## Session History
+
+### 2025/06/29 19:41:07 - Glob Pattern Exclusion Feature Documentation
+- Added documentation for glob pattern path exclusion feature (v10.7.0)
+- Created option files for both Current vault and Internal link complements
+- Updated feature pages to include new options in Related Options sections
+- Learned formatting conventions: callout warnings, concise implementation details, accurate pattern descriptions
