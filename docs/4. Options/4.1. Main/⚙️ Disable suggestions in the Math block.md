@@ -3,9 +3,7 @@
 - `ON`
 - `OFF` (default)
 
-## Notes
-
-Inline Math blocks as shown below are not supported.
+Disables suggestions within math blocks. This setting does not apply to inline blocks.
 
 ## Examples
 
