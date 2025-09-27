@@ -3,5 +3,4 @@ mkdocs-glightbox
 mkdocs-backlinks-section-plugin
 mkdocs-git-revision-date-localized-plugin
 mkdocs-git-authors-plugin
-mkdocs-obsidian-bridge
 git+https://github.com/tadashi-aikawa/mkdocs-obsidian-bridge
