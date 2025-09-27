@@ -23,6 +23,7 @@ markdown_extensions:
   - footnotes
   - toc:
       permalink: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify {}
   - obsidian_callouts
   - pymdownx.superfences
   - pymdownx.magiclink
