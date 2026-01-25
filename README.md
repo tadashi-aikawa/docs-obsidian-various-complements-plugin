@@ -6,4 +6,6 @@ python -m venv <venv_dir>
 # Activate <venv_dir>
 
 pip install -r requirements.txt
+
+mkdocs serve -a localhost:8081 --livereload
 ```
