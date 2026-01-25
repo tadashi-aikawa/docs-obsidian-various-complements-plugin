@@ -22,6 +22,7 @@ For details, you can see [[🖼️ Status bar]].
 
 - [[⚙️ Enable Internal link complement]]
 - [[⚙️ Suggest with an alias]]
+- [[⚙️ Preserve first-letter case]]
 - [[⚙️ Update internal links on save]]
 - [[⚙️ Exclude self internal link]]
 - [[⚙️ Exclude existing in active file internal links]]
