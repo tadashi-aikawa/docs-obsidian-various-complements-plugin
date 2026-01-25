@@ -1,4 +1,7 @@
 strict: true
+validation:
+  links:
+    anchors: warn
 
 site_name: Various Complements
 repo_url: https://github.com/tadashi-aikawa/obsidian-various-complements-plugin
@@ -46,3 +49,6 @@ plugins:
       enabled: !ENV [RELEASE, False]
       strict: false
       show_email_address: false
+
+exclude_docs: |
+  /_Privates/

@@ -2,3 +2,5 @@
 .obsidian
 venv
 /.venv
+docs/_Privates
+docs/obsidian.vimrc
