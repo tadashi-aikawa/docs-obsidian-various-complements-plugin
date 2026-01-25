@@ -1,12 +1,19 @@
+---
+created: 2025-06-22 23:56
+updated: 2026-01-25 20:20
+---
 It suggests and completes the text with internal links without input \[\[. It means that you can concentrate on writing sentences **without concerning whether the word already exists as a link or not**.
+
 
 ## Images
 
 ![[internal-link-complement-demo1.gif]]
 
+
 ## Requirements
 
 It needs to enable a [[⚙️ Enable Internal link complement]] option.
+
 
 ## When does it update tokens?
 
@@ -17,6 +24,7 @@ It needs to enable a [[⚙️ Enable Internal link complement]] option.
 - After some settings are updated
 
 For details, you can see [[🖼️ Status bar]].
+
 
 ## Related Options
 
@@ -33,10 +41,13 @@ For details, you can see [[🖼️ Status bar]].
 - [[⚙️ Tags for exclusion]]
 - [[⚙️ Min number of characters for trigger (Internal link complement)|⚙️ Min number of characters for trigger ]]
 
+
 ## Related pop-up commands
 
 - [[🗨️select with custom alias]]
+- [[🗨️select with custom alias and add to aliases]]
 - [[🗨️select with query alias]]
+
 
 ## Matching logic
 

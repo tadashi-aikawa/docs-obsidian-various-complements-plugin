@@ -1,3 +1,7 @@
+---
+created: 2025-09-27 23:02
+updated: 2025-12-24 06:27
+---
 ## I don't want suggestions to appear when IME is ON
 
 Enable [[⚙️ Disable suggestions during IME on]].

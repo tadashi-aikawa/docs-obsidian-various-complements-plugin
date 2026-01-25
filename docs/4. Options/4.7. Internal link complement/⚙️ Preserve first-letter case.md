@@ -1,3 +1,7 @@
+---
+created: 2026-01-25 19:38
+updated: 2026-01-25 21:07
+---
 ## Definitions
 
 - `ON`
@@ -6,6 +10,9 @@
 
 > [!NOTE]
 > If the displayed text already contains uppercase letters beyond the first character (excluding single-letter words like "I" or "A"), the case is preserved.
+
+<iframe width="800" height="480" src="https://www.youtube.com/embed/WRnMzHq714M?si=6aLrFqv1ggfRI9fH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ## Examples
 
@@ -18,9 +25,11 @@
 | `new`    | `New York`               | `[[New York]]`                      |
 | `i`      | `iPhone`                 | `[[iPhone]]`                        |
 
+
 ## Related issues
 
 - [Preserve first-letter case · Issue #329](https://github.com/tadashi-aikawa/obsidian-various-complements-plugin/issues/329)
+
 
 ## Since
 
