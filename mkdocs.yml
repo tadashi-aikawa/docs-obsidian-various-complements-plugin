@@ -17,6 +17,7 @@ theme:
     - navigation.sections
     - navigation.instant
     - navigation.instant.progress
+    - navigation.tabs
 
 extra_css:
   - main.css
