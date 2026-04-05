@@ -1,4 +1,4 @@
-Execute [[Predictable complement]].
+Execute [[Predictable complement]]. Each subsequent execution cycles through the candidates found near the cursor.
 
 ## Default hotkey
 
