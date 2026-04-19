@@ -1,8 +1,10 @@
 ---
 created: 2025-06-22 23:56
-updated: 2026-01-25 20:20
+updated: 2026-04-19 12:00
 ---
 It suggests and completes the text with internal links without input \[\[. It means that you can concentrate on writing sentences **without concerning whether the word already exists as a link or not**.
+
+By default, it also suggests unresolved internal links that point to non-existing files. You can exclude them with [[⚙️ Exclude unresolved internal links]].
 
 
 ## Images
@@ -34,6 +36,7 @@ For details, you can see [[🖼️ Status bar]].
 - [[⚙️ Update internal links on save]]
 - [[⚙️ Exclude self internal link]]
 - [[⚙️ Exclude existing in active file internal links]]
+- [[⚙️ Exclude unresolved internal links]]
 - [[⚙️ Insert an alias that is transformed from the displayed internal link]]
 - [[⚙️ Exclude prefix path patterns (Internal link complement)]]
 - [[⚙️ Exclude path glob patterns (Internal link complement)|⚙️ Exclude path glob patterns]]
