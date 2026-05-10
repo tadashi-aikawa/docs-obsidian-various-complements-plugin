@@ -1,6 +1,6 @@
 ---
 created: 2026-01-25 19:38
-updated: 2026-01-25 21:07
+updated: 2026-01-25T21:07
 ---
 ## Definitions
 

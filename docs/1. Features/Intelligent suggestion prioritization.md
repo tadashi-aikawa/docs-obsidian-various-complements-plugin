@@ -48,6 +48,7 @@ It recorded in `data.json`.
 
 - [[⚙️ Enable Intelligent Suggestion Prioritization]]
 - [[⚙️ History file path]]
+- [[⚙️ Pretty-print history file]]
 - [[⚙️ Max days to keep history]]
 - [[⚙️ Max number of history to keep]]
 
