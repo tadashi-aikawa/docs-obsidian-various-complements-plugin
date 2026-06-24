@@ -37,6 +37,7 @@ For details, you can see [[🖼️ Status bar]].
 - [[⚙️ Exclude self internal link]]
 - [[⚙️ Exclude existing in active file internal links]]
 - [[⚙️ Exclude unresolved internal links]]
+- [[⚙️ Exclude internal links in code]]
 - [[⚙️ Insert an alias that is transformed from the displayed internal link]]
 - [[⚙️ Exclude prefix path patterns (Internal link complement)]]
 - [[⚙️ Exclude path glob patterns (Internal link complement)|⚙️ Exclude path glob patterns]]
